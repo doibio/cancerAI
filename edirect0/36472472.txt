@@ -1,0 +1,48 @@
+1. MAbs. 2023 Jan-Dec;15(1):2153410. doi: 10.1080/19420862.2022.2153410.
+
+Antibodies to watch in 2023.
+
+Kaplon H(1), Crescioli S(2), Chenoweth A(2), Visweswaraiah J(3), Reichert JM(4).
+
+Author information:
+(1)Translational Medicine Department, Institut de Recherches Internationales 
+Servier Suresnes, France.
+(2)St. John's Institute of Dermatology, School of Basic & Medical Biosciences, 
+King's College London, London UK.
+(3)Drug Creation, Seismic Therapeutic, Cambridge MA USA.
+(4)The Antibody Society Inc, Framingham, MA USA.
+
+In this 14th installment of the annual Antibodies to Watch article series, we 
+discuss key events in commercial monoclonal antibody therapeutics development 
+that occurred in 2022 and forecast events that might occur in 2023. As of 
+mid-November, 12 antibody therapeutics had been granted first approvals in 
+either the United States or European Union (tebentafusp (Kimmtrak), faricimab 
+(Vabysmo), sutimlimab (Enjaymo), relatlimab (Opdualag), tixagevimab/cilgavimab 
+(Evusheld), mosunetuzumab (Lunsumio), teclistamab (TECVAYLI), spesolimab 
+(SPEVIGO), tremelimumab (Imjudo; combo with durvalumab), nirsevimab (Beyfortus), 
+mirvetuximab soravtansine (ELAHERE™), and teplizumab (TZIELD)), including 4 
+bispecific antibodies and 1 ADC. Based on FDA action dates, several additional 
+product candidates could be approved by the end of 2022. An additional seven 
+were first approved in China or Japan in 2022, including two bispecific 
+antibodies (cadonilimab and ozoralizumab). Globally, at least 24 investigational 
+antibody therapeutics are undergoing review by regulatory agencies as of 
+mid-November 2022. Our data show that, with antibodies for COVID-19 excluded, 
+the late-stage commercial clinical pipeline grew by ~20% in the past year to 
+include nearly 140 investigational antibody therapeutics that were designed 
+using a wide variety of formats and engineering techniques. Of those in 
+late-stage development, marketing application submissions for at least 23 may 
+occur by the end of 2023, of which 5 are bispecific (odronextamab, erfonrilimab, 
+linvoseltamab, zanidatamab, and talquetamab) and 2 are ADCs (datopotamab 
+deruxtecan, and tusamitamab ravtansine).
+
+DOI: 10.1080/19420862.2022.2153410
+PMCID: PMC9728470
+PMID: 36472472 [Indexed for MEDLINE]
+
+Conflict of interest statement: HK and JV are employed by companies that develop 
+antibody therapeutics. JMR is employed by The Antibody Society, a non-profit 
+trade association funded by corporate sponsors that develop antibody 
+therapeutics or provide services to companies that develop antibody 
+therapeutics, and she is Editor-in-Chief of mAbs, a biomedical journal focused 
+on topics relevant to antibody therapeutics development. Data in this 
+publication were collected from publicly available sources.

@@ -1,0 +1,45 @@
+1. Transl Oncol. 2022 Jun;20:101408. doi: 10.1016/j.tranon.2022.101408. Epub 2022
+ Mar 29.
+
+Tebentafusp in first-line melanoma trials: An outperforming outlier.
+
+Olivier T(1), Prasad V(2).
+
+Author information:
+(1)Department of Oncology, Geneva University Hospital, 4 Gabrielle-Perret-Gentil 
+Street, Geneva 1205, Switzerland; Department of Epidemiology and Biostatistics, 
+University of California San Francisco, 550 16th St, 2nd Fl, San Francisco, CA 
+94158, USA. Electronic address: timothee.olivier@hcuge.ch.
+(2)Department of Epidemiology and Biostatistics, University of California San 
+Francisco, 550 16th St, 2nd Fl, San Francisco, CA 94158, USA.
+
+Uveal melanoma is distinct from other melanomas. In the advanced and metastatic 
+stages, little to no improvement have been seen over time. Tebentafusp is a 
+novel mechanism of action bispecific gp100 peptide-HLA-directed CD3 T-cell 
+engager fusion protein ("-fusp"). Tebentafusp was granted full approval on 
+January 25th 2022 in the setting of HLA-A*02:01-positive adult patients with 
+unresectable or metastatic uveal melanoma. The approval was based on the overall 
+survival advantage of tebentafusp over physician's choice therapy, in previously 
+untreated uveal melanoma patients, based on the IMCgp100-202 trial. While we 
+welcome positive results for this unmet need, three issues are raised by the 
+trial. First, the control arm was restricted, precluding important options. 
+Second, post-progression treatment was provided to a smaller fraction of 
+patients than in real-life, which raises the question of whether overall 
+survival was negatively impacted by limited care after the trial ended. Finally, 
+the discrepancy between overall survival and progression-free survival benefit 
+is an outlier in the context of previous melanoma trials. While it is clear that 
+tebentafusp has an important role to play in this tumor type, the exact line is 
+not yet well known. Confirmatory trials are needed for this compound.
+
+Copyright © 2022. Published by Elsevier Inc.
+
+DOI: 10.1016/j.tranon.2022.101408
+PMCID: PMC8968051
+PMID: 35364557
+
+Conflict of interest statement: Vinay Prasad's Disclosures: Research funding: 
+Arnold Ventures; Royalties: Johns Hopkins Press, Medscape; Honoraria: Grand 
+Rounds/lectures from universities, medical centers, non-profits, and 
+professional societies; Consulting: UnitedHealthcare; Speaking fees: Evicore; 
+Other: Plenary Session podcast has Patreon backers. Timothée Olivier have no 
+financial nor non-financial conflicts of interest to report.

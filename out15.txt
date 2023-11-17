@@ -1,0 +1,21 @@
+cohere.Chat {
+	id: 188f5897-9f85-4c51-b198-a528363afb21
+	response_id: 188f5897-9f85-4c51-b198-a528363afb21
+	generation_id: 6fee89a6-efe4-4c3a-9a1a-25cde637d9ed
+	message: What does the company Immunocore do?
+	text: Immunocore is a clinical-stage biotechnology company that develops novel immunotherapies for the treatment of cancer, infectious diseases, and autoimmune diseases. The company's most advanced clinical program is IMC-C660, a novel bispecific antibody that targets leukemia and lymphoma tumors. Immunocore uses its proprietary ImmTAC technology to generate immune-activating molecules that have the potential to cure, not just treat disease. 
+
+Would you like to know more about Immunocore's therapeutic approaches?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7f0850ff2230>
+	token_count: {'prompt_tokens': 1709, 'response_tokens': 102, 'total_tokens': 1811, 'billed_tokens': 111}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: None
+	documents: None
+	search_results: None
+	search_queries: [{'text': 'immunocore company', 'generation_id': 'a7d3d029-356e-44f4-88e5-d5490f11fa70'}]
+}

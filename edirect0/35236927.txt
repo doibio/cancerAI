@@ -1,0 +1,30 @@
+1. Cancer Gene Ther. 2022 Dec;29(12):1814-1818. doi: 10.1038/s41417-022-00442-9. 
+Epub 2022 Mar 2.
+
+Review of bi-specific therapies in uveal melanoma.
+
+Orloff M(1), Seedor R(2), Sato T(2).
+
+Author information:
+(1)Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 
+USA. marlana.orloff@jefferson.edu.
+(2)Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA, 
+USA.
+
+Uveal melanoma is a rare subtype of melanoma that once metastatic portends a 
+poor prognosis. Likely due to the distinct differences in biology, metastatic 
+potential, and immunologic profile as compared to cutaneous melanoma, uveal 
+melanoma's response to immune checkpoint inhibition has been disappointing. 
+Bi-specific fusion protein therapies (T cell engagers) are a novel strategy to 
+forcibly bridge the immune system with a target on a cancer cell. This approach 
+has been explored in a number of cancer types and has recently demonstrated 
+success in uveal melanoma. Tebentafusp, a first in class ImmTAC 
+(Immune-mobilizing monoclonal TCRs against cancer), has now shown an overall 
+survival benefit when compared to investigator's choice. This review aims to 
+summarize the experience with this first in class bi-specific T cell engager as 
+well as highlight bi-specifics as a novel treatment strategy in uveal melanoma.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41417-022-00442-9
+PMID: 35236927 [Indexed for MEDLINE]

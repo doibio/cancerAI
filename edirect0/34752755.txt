@@ -1,0 +1,46 @@
+1. Cancer Cell. 2021 Nov 8;39(11):1461-1463. doi: 10.1016/j.ccell.2021.10.005.
+Epub  2021 Nov 8.
+
+T cell engagers in solid tumors kick the door down.
+
+de Miguel M(1), Calvo E(2).
+
+Author information:
+(1)START Madrid-HM Centro Integral Oncológico Clara Campal (CIOCC) Early Phase 
+Clinical Drug Development Program, HM Sanchinarro University Hospital, Madrid, 
+Spain.
+(2)START Madrid-HM Centro Integral Oncológico Clara Campal (CIOCC) Early Phase 
+Clinical Drug Development Program, HM Sanchinarro University Hospital, Madrid, 
+Spain. Electronic address: emiliano.calvo@startmadrid.com.
+
+Comment on
+    N Engl J Med. 2021 Sep 23;385(13):1196-1206.
+
+Tebentafusp, a T cell-redirecting, bispecific-antibody-targeting, 
+HLA∗02:01-restricted gp100 peptide and CD3, induces T cells to kill glycoprotein 
+100 (gp100)-expressing tumor cells. Tebentafusp is the first T cell engager to 
+show a statistically significant overall survival improvement for the treatment 
+of patients with solid tumors, and this has been reported in the New England 
+Journal of Medicine.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccell.2021.10.005
+PMID: 34752755 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests M.d.M. reports research 
+funding from MSD, Pharmamar, Roche, Novartis, Abbvie, Array, Eisai, and Sanofi; 
+and Speaker’s Bureau membership for MSD, Janssen, and Roche. E.C. reports 
+advisory honoraria from Adcendo, Alkermes, Amunix, Anaveon, Amcure, AstraZeneca, 
+BMS, Janssen, MonTa, MSD, Nanobiotix, Nouscom, Novartis, OncoDNA, PharmaMar, 
+Roche/Genentech, Saofi, Servier, SyneosHealth, TargImmune, and T-knife; research 
+grants from Achilles and BeiGene; steering committee memberships and IDMC 
+participation for BeiGene (IDMC steering committee), EORTC (IDMC chair, 
+non-financial interest), MedSIR (steering committee), and Novartis (steering 
+committee); scientific board membership for Adcendo, Chugai Pharmaceuticals, and 
+PsiOxus Therapeutics; and employment with HM Hospitals Group and START Program 
+of Early Phase Clinical Drug Development in Oncology. E.C. is also a medical 
+oncologist, clinical investigator, and director of clinical research; an owner 
+of the START corporation, Oncoart Associated, and International Cancer 
+Consultants; and founder and president of the non-for-profit foundation INTHEOS 
+(Investigational Therapeutics in Oncological Sciences).

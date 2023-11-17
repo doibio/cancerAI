@@ -1,0 +1,32 @@
+1. Cancers (Basel). 2022 Feb 26;14(5):1215. doi: 10.3390/cancers14051215.
+
+TCR-Directed Therapy in the Treatment of Metastatic Uveal Melanoma.
+
+Strobel SB(1), Machiraju D(1), Hassel JC(1).
+
+Author information:
+(1)Department of Dermatology, National Center for Tumor Diseases, University 
+Hospital Heidelberg, Code, 69120 Heidelberg, Germany.
+
+Metastatic uveal melanoma (mUM) is one of the most rapidly progressing tumors, 
+with a bad prognosis and no standard-of-care treatment. Immune checkpoint 
+inhibitors have revolutionized cancer therapy and improved overall survival in 
+patients with metastatic cutaneous melanoma (mCM). However, this approach has 
+been largely unimpressive, with no significant impact on the survival of mUM 
+patients. Technical advances in immunotherapies have led to the development of 
+novel T cell receptor (TCR)-based approaches to fight cancer. For the first time 
+in over 50 years, compelling evidence demonstrates the power of TCR-based 
+approaches for survival in mUM patients. Hence, this review summarizes novel 
+TCR-based immunotherapeutic strategies currently in clinical studies for mUM 
+treatment. We also discuss the potential combinational treatments to these 
+strategies to maximize the clinical benefits.
+
+DOI: 10.3390/cancers14051215
+PMCID: PMC8909175
+PMID: 35267523
+
+Conflict of interest statement: D.M. declares no conflict of interest. S.B.S. 
+received honoraria from BMS and Sunpharma. J.C.H has received honoraria from 
+BMS, MSD, Novartis, Roche, Pierre Fabre, Sanofi, Almirall; consultant or 
+advisory role: MSD, Pierre Fabre, Sunpharma; research funding: BMS; travel 
+support: Pierre Fabre.

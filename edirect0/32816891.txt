@@ -1,0 +1,68 @@
+1. Clin Cancer Res. 2020 Nov 15;26(22):5869-5878. doi: 
+10.1158/1078-0432.CCR-20-1247. Epub 2020 Aug 18.
+
+Tebentafusp, A TCR/Anti-CD3 Bispecific Fusion Protein Targeting gp100, Potently 
+Activated Antitumor Immune Responses in Patients with Metastatic Melanoma.
+
+Middleton MR(1), McAlpine C(2), Woodcock VK(3), Corrie P(4), Infante JR(5), 
+Steven NM(6), Evans TRJ(7), Anthoney A(8), Shoushtari AN(9), Hamid O(10), Gupta 
+A(3), Vardeu A(2), Leach E(2), Naidoo R(2), Stanhope S(2), Lewis S(2), Hurst 
+J(2), O'Kelly I(2), Sznol M(11).
+
+Author information:
+(1)Department of Oncology, Medical Sciences Division, University of Oxford, 
+Headington, Oxford, United Kingdom. mark.middleton@oncology.ox.ac.uk.
+(2)Immunocore Ltd, Abingdon, Oxford, United Kingdom.
+(3)Department of Oncology, Medical Sciences Division, University of Oxford, 
+Headington, Oxford, United Kingdom.
+(4)Cambridge University Hospitals, NHS Foundation Trust, Cambridge, United 
+Kingdom.
+(5)Janssen, Philadelphia, Pennsylvania.
+(6)Institute of Immunology and Immunotherapy, College of Medical and Dental 
+Sciences, University of Birmingham, Birmingham, United Kingdom.
+(7)Institute of Cancer Sciences, University of Glasgow, Glasgow, Scotland, 
+United Kingdom.
+(8)Leeds Teaching Hospitals NHS Trust, Leeds, United Kingdom.
+(9)Memorial Sloan Kettering Cancer Center, New York, New York.
+(10)Immunooncology, The Angeles Clinic and Research Institute, Los Angeles, 
+California.
+(11)Yale Cancer Center, Yale School of Medicine, Yale, Connecticut.
+
+PURPOSE: Tebentafusp is a first-in-class bispecific fusion protein designed to 
+target gp100 (a melanoma-associated antigen) through a high affinity T-cell 
+receptor (TCR) binding domain and an anti-CD3 T-cell engaging domain, which 
+redirects T cells to kill gp100-expressing tumor cells. Here, we report a 
+multicenter phase I/II trial of tebentafusp in metastatic melanoma (NCT01211262) 
+focusing on the mechanism of action of tebentafusp.
+PATIENTS AND METHODS: Eighty-four patients with advanced melanoma received 
+tebentafusp. Treatment efficacy, treatment-related adverse events, and biomarker 
+assessments were performed for blood-derived and tumor biopsy samples obtained 
+at baseline and on-treatment.
+RESULTS: Tebentafusp was generally well-tolerated and active in both patients 
+with metastatic uveal melanoma and patients with metastatic cutaneous melanoma. 
+A 1-year overall survival rate of 65% was achieved for both patient cohorts. 
+On-treatment cytokine measurements were consistent with the induction of IFNγ 
+pathway-related markers in the periphery and tumor. Notably, tebentafusp induced 
+an increase in serum CXCL10 (a T-cell attractant) and a reduction in circulating 
+CXCR3+ CD8+ T cells together with an increase in cytotoxic T cells in the tumor 
+microenvironment. Furthermore, increased serum CXCL10 or the appearance of rash 
+(likely due to cytotoxic T cells targeting gp100-expressing skin melanocytes) 
+showed a positive association with patient survival.
+CONCLUSIONS: These data suggest that redirecting T cells using a gp100-targeting 
+TCR/anti-CD3 bispecific fusion protein may provide benefit to patients with 
+metastatic melanoma. Furthermore, the activity observed in these two molecularly 
+disparate melanoma classes hints at the broad therapeutic potential of 
+tebentafusp.
+
+©2020 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-20-1247
+PMCID: PMC9210997
+PMID: 32816891 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interests Cheryl 
+McAlpine, Antonella Vardeu, Emma Leach, Revashnee Naidoo, Sarah Stanhope, Sion 
+Lewis, Jacob Hurst, and Ita O’Kelly are / have been employees of Immunocore, 
+which could benefit from commercialization of these results. Mark Middleton and 
+Mario Sznol have previously served on the scientific advisory board of 
+Immunocore

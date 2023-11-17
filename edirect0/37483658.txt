@@ -1,0 +1,31 @@
+1. Immunooncol Technol. 2023 Jun 8;19:100386. doi: 10.1016/j.iotech.2023.100386. 
+eCollection 2023 Sep.
+
+Immuno-oncology approaches in uveal melanoma: tebentafusp and beyond.
+
+Gerard C(1)(2), Shum B(1)(3), Nathan P(4), Turajlic S(1)(3).
+
+Author information:
+(1)Cancer Dynamics Laboratory, The Francis Crick Institute, London, UK.
+(2)Precision Oncology Center, Oncology Department, Lausanne University Hospital 
+(CHUV), Lausanne, Switzerland.
+(3)Skin and Renal Unit, The Royal Marsden NHS Foundation Trust, London.
+(4)Mount Vernon Cancer Centre, East and North Herts NHS Trust, Northwood, UK.
+
+Uveal melanoma (UM) is the most common ocular malignancy in adults, associated 
+with the poorest prognosis, with metastatic disease occurring in up to 50% of 
+patients. In contrast to metastatic cutaneous melanoma, the use of immune 
+checkpoint inhibitors is associated with poor outcomes in metastatic uveal 
+melanoma (mUM). Tebentafusp, a bispecific molecule, has recently become the 
+first treatment in decades to improve overall survival for mUM. This review 
+summarises the existing and emerging immuno-oncology approaches for the 
+treatment of mUM, and biomarkers of response and resistance to the same. 
+Finally, we propose future research directions that could maximise treatment 
+benefit to a wider pool of patients with UM.
+
+© 2023 Published by Elsevier Ltd on behalf of European Society for Medical 
+Oncology.
+
+DOI: 10.1016/j.iotech.2023.100386
+PMCID: PMC10362360
+PMID: 37483658

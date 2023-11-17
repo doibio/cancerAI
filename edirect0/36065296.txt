@@ -1,0 +1,40 @@
+1. J Virus Erad. 2022 Aug 24;8(3):100082. doi: 10.1016/j.jve.2022.100082. 
+eCollection 2022 Sep.
+
+Combination strategies to durably suppress HIV-1: Soluble T cell receptors.
+
+Wallace Z(1), Singh PK(1), Dorrell L(1).
+
+Author information:
+(1)Immunocore Ltd, UK.
+
+Immunotherapeutic interventions to enhance natural HIV-specific CD8+ T cell 
+responses, such as vaccination or adoptive T cell transfer, have been a major 
+focus of HIV cure efforts. However, these approaches have not been effective in 
+overcoming viral immune evasion mechanisms. Soluble T cell receptor (TCR) 
+bispecifics are a new class of 'off-the-shelf' therapeutic designed to address 
+these limitations. These biologics are built on the Immune mobilising monoclonal 
+TCRs against X disease (ImmTAX) platform, which was pioneered in oncology and 
+recently validated by the FDA's approval of tebentafusp for treatment of 
+metastatic uveal melanoma. ImmTAV® are an application of this technology 
+undergoing clinical development for the elimination of chronic viral infections. 
+ImmTAV molecules comprise an affinity-enhanced virus-specific TCR fused to an 
+anti-CD3 effector domain. Engineering of the TCR confers extraordinary 
+specificity and affinity for cognate viral antigen and the anti-CD3 enables 
+retargeting of non-exhausted cytolytic T cells, irrespective of their 
+specificity. These features enable ImmTAV molecules to detect and kill infected 
+cells, even when expressing very low levels of antigen, bypassing ineffective 
+host immune responses. Furthermore, the modularity of the platform allows for 
+engineering of TCRs that effectively target viral variants. In this review, we 
+discuss the progress made in the development of ImmTAV molecules as therapeutics 
+for functional cure of chronic hepatitis B and HIV, from concept to the clinic.
+
+© 2022 The Authors.
+
+DOI: 10.1016/j.jve.2022.100082
+PMCID: PMC9440443
+PMID: 36065296
+
+Conflict of interest statement: The authors declare the following financial 
+interests/personal relationships which may be considered as potential competing 
+interests. ZW, PKS, and LD are employees of Immunocore Ltd.

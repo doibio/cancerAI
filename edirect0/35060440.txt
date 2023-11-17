@@ -1,0 +1,35 @@
+1. Expert Opin Biol Ther. 2022 Aug;22(8):997-1004. doi: 
+10.1080/14712598.2022.2031970. Epub 2022 Feb 2.
+
+Tebentafusp in advanced uveal melanoma: proof of principle for the efficacy of 
+T-cell receptor therapeutics and bispecifics in solid tumors.
+
+Liu AW(1), Wei AZ(2), Maniar AB(2), Carvajal RD(2).
+
+Author information:
+(1)SUNY Downstate Health Sciences University, Brooklyn, NY, USA.
+(2)Division of Hematology and Oncology, Columbia University Irving Medical 
+Center, New York, NY, USA.
+
+INTRODUCTION: Tebentafusp is a novel bispecific immune mobilizing T cell 
+receptor (TCR)-based agent developed for the treatment of metastatic uveal 
+melanoma, a highly fatal disease with no currently approved treatment options. 
+Recent evidence suggests this drug may become the standard of care for 
+first-line treatment of metastatic uveal melanoma.
+AREAS COVERED: This review focuses on the development and investigation of 
+tebentafusp for metastatic uveal melanoma. First, we discuss preclinical studies 
+followed by clinical evaluation, culminating in a phase III trial showing 
+improved overall survival with tebentafusp compared to standard of care. 
+Finally, we expand upon key toxicities of tebentafusp and highlight biomarkers 
+that may correlate with drug efficacy.
+EXPERT OPINION: Tebentafusp provides a promising advancement to date for the 
+management of metastatic uveal melanoma. Future studies should aim at 
+identifying biomarkers that can predict treatment response or toxicity, 
+combination therapy, application of tebentafusp in the adjuvant setting to 
+reduce the risk of recurrence, and development of bispecifics with activity in 
+other HLA subtypes. With its novel mechanism of action, degree of efficacy and 
+safety profile, tebentafusp is expected to change the standard of care for 
+treating metastatic and, potentially localized, uveal melanoma.
+
+DOI: 10.1080/14712598.2022.2031970
+PMID: 35060440 [Indexed for MEDLINE]

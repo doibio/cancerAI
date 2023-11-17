@@ -1,0 +1,41 @@
+1. Cancers (Basel). 2019 Jul 11;11(7):971. doi: 10.3390/cancers11070971.
+
+Tebentafusp: T Cell Redirection for the Treatment of Metastatic Uveal Melanoma.
+
+Damato BE(1), Dukes J(2), Goodall H(2), Carvajal RD(3).
+
+Author information:
+(1)Nuffield Department of Clinical Neurosciences, University of Oxford, John 
+Radcliffe Hospital, Oxford OX3 9DU, UK. Bertil.Damato@NHS.net.
+(2)Immunocore Limited, 101 Park Drive, Milton Park, Abingdon, Oxon OX14 4RY, UK.
+(3)Department of Medicine, Columbia University Irving Medical Center, Herbert 
+Irving Comprehensive Cancer Center, Herbert Irving Pavilion, 161 Fort Washington 
+Avenue, HIP 9, New York, NY 10032, USA.
+
+Metastatic disease from uveal melanoma occurs in almost 50% of patients 
+suffering from this ocular tumour, with median survival from development of 
+symptoms being around 1 year. In contrast to cutaneous melanoma, kinase 
+inhibitors and immune checkpoint inhibitors are usually ineffective in patients 
+with metastatic uveal melanoma. Tebentafusp is a novel form of immunotherapy 
+based on the immune-mobilising monoclonal T cell receptor against cancer 
+(ImmTAC) platform, which comprises a soluble T cell receptor that is fused to an 
+anti-CD3 single-chain variable fragment. The T cell receptor domain of 
+tebentafusp targets cells present a human leukocyte antigen-A*02:01 complexed 
+with a peptide derived from the melanoma-associated antigen gp100, which is 
+expressed strongly by melanoma cells, weakly by normal melanocytes and minimally 
+by other tissues. The anti-CD3 domain recruits CD3+ T cells (and, indirectly, 
+other immune cells), redirecting these to the melanoma cells. The most common 
+adverse events with tebentafusp are manageable and usually transient. Early 
+survival data in patients with metastatic uveal melanoma are promising when 
+considered alongside historical data. Based on these encouraging results, a 
+randomised study comparing tebentafusp to investigator's choice of therapy in 
+metastatic uveal melanoma is ongoing.
+
+DOI: 10.3390/cancers11070971
+PMCID: PMC6679206
+PMID: 31336704
+
+Conflict of interest statement: Bertil Damato has received consulting fees from 
+Immunocore. Rich Carvajal has received consulting fees and research funding to 
+institution from Immunocore. Howard Goodall and Joseph Dukes are employees of 
+Immunocore.

@@ -1,0 +1,33 @@
+1. Expert Opin Biol Ther. 2023 Oct 18:1-3. doi: 10.1080/14712598.2023.2273276. 
+Online ahead of print.
+
+Bispecific antibodies as monotherapy or in combinations for hematological 
+malignancies: latest updates from the EHA 2023 annual meeting.
+
+Li X(1)(2), Zhang P(1), Sun H(1), Han L(1), Jiang Z(1), Yu J(1)(3).
+
+Author information:
+(1)Department of Orthopedics, The First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, China.
+(2)Department of Orthopedics, Affiliated Hospital of Changchun University of 
+Traditional Chinese Medicine, Jilin, China.
+(3)Henan International Joint Laboratory of Nuclear Protein Gene Regulation, 
+Henan University College of Medicine, Kaifeng, Henan, China.
+
+According to recent research, bispecific antibodies (BsAbs) are a promising new 
+immunotherapy method. Various BsAb forms are constantly being developed. In the 
+year 2022 alone, four BsAbs (tebentafusp, faricimab, mosunetuzumab, and 
+teclistamab) were approved for clinical applications. BsAbs including 
+odronextamab, talquetamab, linvoseltamab, and elranatamab are being actively 
+evaluated in different clinical studies. Preliminary results show promising 
+response rates in relapsed/refractory follicular lymphoma (RRFL), 
+relapsed/refractory diffuse large B-cell lymphoma (RRDLBCL), and 
+relapsed/refractory multiple myeloma (RRMM), especially in heavily pretreated 
+patients, including those who have progressed after proteasome inhibitors, 
+immunomodulatory drugs, anti-CD38 antibodies, and CAR-T therapies. We summarized 
+data published at the 28th European Hematology Association (EHA) annual meeting, 
+which was held in Frankfurt between 8 June 2023 and 11 June 2023 on BsAbs 
+monotherapy or combination therapy for RRFL, RRDLBCL, and RRMM.
+
+DOI: 10.1080/14712598.2023.2273276
+PMID: 37852928

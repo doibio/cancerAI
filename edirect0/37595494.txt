@@ -1,0 +1,127 @@
+1. Eur J Cancer. 2023 Sep;191:112986. doi: 10.1016/j.ejca.2023.112986. Epub 2023 
+Jul 11.
+
+Practical guidelines for the management of adverse events of the T cell engager 
+bispecific tebentafusp.
+
+Hassel JC(1), Berking C(2), Forschner A(3), Gebhardt C(4), Heinzerling L(5), 
+Meier F(6), Ochsenreither S(7), Siveke J(8), Hauschild A(9), Schadendorf D(10).
+
+Author information:
+(1)Department of Dermatology, National Center for Tumor Diseases, University 
+Hospital Heidelberg, Im Neuenheimer Feld 460, 69120 Heidelberg, Germany. 
+Electronic address: Jessica.Hassel@med.uni-heidelberg.de.
+(2)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg, Comprehensive Cancer Center Erlangen-EMN, Ulmenweg 
+18, 91054 Erlangen, Germany.
+(3)Department of Dermatology, University Hospital Tuebingen, Liebermeisterstr. 
+25, 72076 Tuebingen, Germany.
+(4)Department of Dermatology and Venereology, Skin Cancer Center, University 
+Medical Center Hamburg-Eppendorf (UKE), Martinistr. 52, 20246 Hamburg, Germany.
+(5)Department of Dermatology and Allergy, University Hospital, LMU Munich, 
+Frauenlobstr. 9-11, 80337 Munich, Germany; Department of Dermatology, University 
+Hospital Erlangen, 91054 Erlangen, Germany.
+(6)Skin Cancer Center at the University Cancer Centre Dresden and National 
+Center for Tumor Diseases and Department of Dermatology, University Hospital 
+Carl Gustav Carus, TU Dresden, Fetscherstr. 74, 01307 Dresden, Germany.
+(7)Department of Hematology, Oncology and Tumor Immunology, Charité Campus 
+Benjamin Franklin, Hindenburgdamm 30, 12203 Berlin, Germany; 
+Charité-Comprehensive Cancer Center, Charitéplatz 1, 10117 Berlin, Germany.
+(8)Bridge Institute of Experimental Tumor Therapy, West German Cancer Center, 
+University Medicine Essen, Hufelandstr. 55, 45147 Essen, Germany; Division of 
+Solid Tumor Translational Oncology, German Cancer Consortium (DKTK, partner site 
+Essen) and German Cancer Research Center, DKFZ, Im Neuenheimer Feld 280, 69120 
+Heidelberg, Germany.
+(9)Department of Dermatology, University Hospital Schleswig-Holstein (UKSH), 
+Arnold-Heller-Str. 3, 24105 Kiel, Germany.
+(10)Department of Dermatology, Comprehensive Cancer Center (Westdeutsches 
+Tumorzentrum), German Cancer Consortium (DKTK, partner site Essen) and 
+University Hospital Essen, Hufelandstr. 55, 45122 Essen, Germany.
+
+Tebentafusp is a new T cell receptor bispecific fusion protein and the first 
+approved treatment option for human leucocyte antigen-A*02:01 (HLA-A*02:01) 
+metastatic uveal melanoma, with a proven benefit in overall survival versus the 
+investigator's choice. As a first-in-class therapeutic option, this Immune 
+mobilising monoclonal T cell receptor Against Cancer (ImmTAC) is associated with 
+a new adverse event (AE) profile. Based on clinical experience, a national 
+expert group discussed recommendations for tebentafusp treatment, focusing on AE 
+management. Further topics included prerequisites for initiating tebentafusp 
+treatment, appropriate treatment setting, and patient selection criteria. To 
+provide guidance for treating physicians, the resulting recommendations are 
+summarised including a model standard operating procedure for AE management. 
+Patients in good clinical condition and with a low tumour burden are good 
+candidates for tebentafusp treatment, particularly if treated as early as 
+possible after the diagnosis of metastatic disease. The safety profile of 
+tebentafusp is manageable and includes two major pathologies: cytokine release 
+syndrome (CRS) and skin-related events. Postdose monitoring should thus focus on 
+pyrexia and hypotension as the first symptoms of cytokine release. To minimise 
+the risk of hypotension associated with CRS, patients should receive 
+intravenous fluids before starting treatment. The monitoring of liver values is 
+crucial, as patients may experience an increase in transaminases, which can even 
+manifest as tumour lysis syndrome.
+
+Copyright © 2023 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ejca.2023.112986
+PMID: 37595494 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: Carola Berking reports honoraria 
+for talks from Bristol-Myers Squibb, MSD, Novartis, and Sanofi and for advisory 
+boards from Bristol-Myers Squibb, Immunocore, InflaRx, MSD, Novartis, Pierre 
+Fabre, Regeneron, and Sanofi. Andrea Forschner reports honoraria for talks from 
+Bristol-Myers Squibb, CeGaT, MSD, Novartis, and Roche and for advisory boards 
+from Bristol-Myers Squibb, Immunocore, MSD, Novartis, Pierre Fabre, and Roche; 
+she reports travel expenses from Bristol-Myers Squibb, Novartis, Pierre Fabre, 
+and Roche. Christoffer Gebhardt reports honoraria for talks from Almirall, 
+Bristol-Myers Squibb, Immunocore, Janssen, MSD, Novartis, Pierre Fabre, Sanofi, 
+SUN Pharma and for advisory boards from Bristol-Myers Squibb, Immunocore, MSD, 
+Novartis, Pierre Fabre, Sanofi, SUN Pharma; he received travel expenses from 
+Bristol-Myers Squibb and SUN Pharma. Founder Dermagnostix and Dermagnostix R&D. 
+Jessica Hassel reports honoraria for talks from Amgen, Bristol-Myers Squibb, 
+GSK, Immunocore, MSD, Novartis, Pierre Fabre, Sanofi, SUN Pharma and for 
+advisory boards from GSK, MSD, Pierre Fabre, SUN Pharma, Onkowissen; she reports 
+travel expenses from Bristol-Myers Squibb, Iovance, SUN Pharma. Axel Hauschild 
+reports speaker’s honoraria from Amgen, Bristol-Myers Squibb, Eisai, Kyowa 
+Kirin, MerckPfizer, MSD/Merck, Novartis Pharma, Pierre Fabre, Regeneron, Roche, 
+Sanofi-Genzyme; he reports advisory boards from Bristol-Myers Squibb, Eisai, 
+Immunocore, MerckPfizer, MSD/Merck, Novartis Pharma, Regeneron, Replimune, 
+Pierre Fabre, Roche, Sanofi-Genzyme, and consultancy for Dermagnostix, Eisai, 
+Highlight Therapeutics, Incyte, IO Biotech, MSD/Merck, NeraCare, Novartis 
+Pharma, Philogen, Pierre Fabre, Regeneron, Replimune, Roche, Sanofi-Genzyme, 
+Seagen; he reports clinical trial support (grant to institution) from Amgen, 
+Bristol-Myers Squibb, Eisai, Huya Biosciences, MerckPfizer, MSD/Merck, NeraCare, 
+Novartis Pharma, Philogen, Pierre Fabre, Regeneron, Replimune, Roche, 
+Sanofi-Genzyme. Lucie Heinzerling reports speakers and advisory board honoraria 
+from Amgen, Bristol-Myers Squibb, CureVac AG, Kyowa Kirin, Merck Sharp & Dohme 
+GmbH, Novartis Pharma GmbH, Pierre Fabre Pharma GmbH, Roche, Sanofi-Aventis 
+Deutschland GmbH, SUN Pharmaceuticals Germany GmbH, Therakos. Friedegund Meier 
+reports travel support or/and speaker’s fees or/and advisor’s honoraria from 
+Bristol-Myers Squibb, Immunocore, MSD, Novartis, Roche, Pierre Fabre, Sanofi; 
+she reports research funding from Novartis and Roche. Sebastian Ochsenreither 
+reports honoraria for talks from Bristol-Myers Squibb, Janssen, Merck, MSD and 
+for advise from AstraZeneca, Bristol-Myers Squibb, Genmab, Immunocore, Janssen, 
+Merck, MSD, Pfizer. Dirk Schadendorf reports consulting, DMSB/advisory role and 
+honoraria from Immunocore; he reports consulting/advisory role; honoraria; 
+travel, accommodations, expenses from Roche/Genentech and consulting/advisory 
+role; honoraria; speakers bureau; travel, accommodations, expenses; research 
+funding from Amgen, Bristol-Myers Squibb, MSD, Novartis; he reports 
+consulting/advisory role; speakers bureau; honoraria from Incyte, Pierre Fabre 
+and consulting/advisory role; honoraria from 4SC, Replimune; he reports 
+consulting/advisory role; honoraria; travel, accommodations, expenses from Merck 
+Serono and travel, accommodations, expenses from Merck; he reports honoraria 
+from Array BioPharma, Philogen, Pfizer, Regeneron, Roche and consulting/advisory 
+role for Nektar; he reports consulting/speaker role for Sunpharma and reports 
+consulting for Daiichi Sanycho, Haystack, InFlarX, Innovent, Neracare, PamGene, 
+Seagen; he reports adboards for Novigenix, OncoSec, SUN Pharma, Ultimovacs and 
+DSMB/consulting for AstraZeneca and consulting/adboard for Immatics; he reports 
+consulting and advisory roles; travel support; payments to institution for study 
+conduct from Sanofi. Jens Siveke reports consulting, advisory role, and 
+honoraria for talks from AstraZeneca, Bayer, Boehringer-Ingelheim, Bristol-Myers 
+Squibb, Celgene, Falk Foundation, Immunocore, MCI Deutschland GmbH, MSD Sharp & 
+Dohme GmbH, Novartis, Roche, SERVIER; he reports institutional trial support 
+from AstraZeneca, Bristol-Myers Squibb, Roche/Genentech and research funding 
+from Abalos Therapeutics, Bristol-Myers Squibb, Eisbach Bio, Roche/Genentech; he 
+reports travel, accommodations, expenses from SERVIER and leadership and stock 
+and other ownership interests from Pharma15.

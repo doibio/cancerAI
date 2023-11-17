@@ -1,0 +1,65 @@
+1. Cancer. 2023 Oct 15;129(20):3275-3286. doi: 10.1002/cncr.34927. Epub 2023 Jun 
+29.
+
+Determinants of overall survival in patients with metastatic uveal melanoma.
+
+Demkowicz P(1), Pointdujour-Lim R(2)(3), Miguez S(1), Lee Y(1), Jones 
+BSCL(1)(2), Barker CA(4), Bosenberg M(5)(6), Abramson DH(7), Shoushtari 
+AN(8)(9), Kluger H(6)(10), Francis JH(7), Sznol M(6)(10), Bakhoum MF(2)(5)(6).
+
+Author information:
+(1)Yale University School of Medicine, New Haven, Connecticut, USA.
+(2)Department of Ophthalmology and Visual Science, Yale University School of 
+Medicine, New Haven, Connecticut, USA.
+(3)Institute of Dermatology & Oculoplastic Surgery, Sarasota, Florida, USA.
+(4)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, New York, USA.
+(5)Department of Pathology, Yale University School of Medicine, New Haven, 
+Connecticut, USA.
+(6)Yale Cancer Center, Yale University, New Haven, Connecticut, USA.
+(7)Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, New 
+York, USA.
+(8)Department of Medicine, Memorial Sloan Kettering Cancer Center, New York, New 
+York, USA.
+(9)Department of Medicine, Weill Cornell Medical College, New York, New York, 
+USA.
+(10)Department of Medicine, Yale University School of Medicine, New Haven, 
+Connecticut, USA.
+
+BACKGROUND: Despite improvements in the treatment of primary uveal melanoma 
+(UM), patients with metastatic disease continue to exhibit poor survival.
+METHODS: A retrospective review of metastatic UM patients at Yale (initial 
+cohort) and Memorial Sloan Kettering (validation cohort) was conducted. Cox 
+proportional hazards regression was used to determine baseline factors that are 
+associated with overall survival, including sex, Eastern Cooperative Oncology 
+Group (ECOG) Performance Status Scale, laboratory measurements, metastasis 
+location, and use of anti-CTLA-4 and anti-PD-1 therapies. Differences in overall 
+survival were analyzed using Kaplan-Meier analysis.
+RESULTS: A total of 89 patients with metastatic UM were identified; 71 and 18, 
+in the initial and validation cohorts, respectively. In the initial cohort, 
+median follow-up was 19.8 months (range, 2-127 months) and median overall 
+survival was 21.8 months (95% CI, 16.6-31.3). Female sex, anti-CTLA-4, and 
+anti-PD-1 therapy were associated with better survival outcomes with adjusted 
+death hazard ratios (HRs) of 0.40 (95% CI, 0.20-0.78), 0.44 (0.20-0.97), and 
+0.42 (0.22-0.84), respectively, whereas development of hepatic metastases and 
+ECOG score ≥1 (per 1 U/L) were associated with worse survival outcomes with HRs 
+of 2.86 (1.28-7.13) and 2.84 (1.29-6.09), respectively. In both the initial and 
+validation cohorts, use of immune checkpoint inhibitors was associated with 
+improved overall survival after adjusting for sex and ECOG score, with death HRs 
+of 0.22 (0.08-0.56) and 0.04 (0.002-0.26), respectively.
+CONCLUSIONS: Development of extrahepatic-only metastases, ECOG of 0, immune 
+checkpoint therapy, and female sex were each associated with more than 2-fold 
+reductions in risk of death.
+PLAIN LANGUAGE SUMMARY: Metastatic uveal melanoma patients face limited 
+treatment options and poor survival rates. Results from this retrospective 
+analysis indicate that immune checkpoint inhibitors, such as anti-CTLA-4 and 
+anti-PD-1 therapies, were associated with improved survival outcomes. Factors 
+such as extrahepatic-only metastases, better baseline performance status, and 
+female sex contributed to a more than 2-fold reduction in death risk. These 
+findings highlight the potential of immunotherapy in treating metastatic uveal 
+melanoma.
+
+© 2023 American Cancer Society.
+
+DOI: 10.1002/cncr.34927
+PMID: 37382208 [Indexed for MEDLINE]

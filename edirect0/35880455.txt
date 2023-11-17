@@ -1,0 +1,45 @@
+1. Curr Opin Oncol. 2022 Sep 1;34(5):552-558. doi: 10.1097/CCO.0000000000000869. 
+Epub 2022 Jul 28.
+
+T-cell-engaging antibodies for the treatment of solid tumors: challenges and 
+opportunities.
+
+Baeuerle PA(1)(2), Wesche H(3).
+
+Author information:
+(1)Cullinan Oncology, Inc., One Main Street, Cambridge, Massachusetts, USA.
+(2)Institute for Immunology, LMU Munich, Planegg-Martinsried, Germany.
+(3)Harpoon Therapeutics, Inc., South San Francisco, California, USA.
+
+PURPOSE OF REVIEW: T-cell-engaging antibodies or T-cell engagers (TCEs) can 
+connect a patient's cytotoxic T cells with cancer cells, leading to potent 
+redirected lysis. Until very recently, only one TCE was approved, the 
+CD19/CD3-bispecific blinatumomab. Many new TCEs in late-stage clinical 
+development target various hematopoietic lineage markers like CD20, BCMA, or 
+CD123. Although very compelling single-agent activity of TCEs was observed with 
+various blood-borne cancers, therapy of solid tumor indications has thus far 
+been less successful.
+RECENT FINDINGS: The approval in 2022 of the gp100 peptide-major 
+histocompatibility complex (MHC)/CD3 bispecific TCE tebentafusp in uveal 
+melanoma confirms that TCEs can also efficiently work against solid tumors. TCEs 
+targeting peptide-MHC complexes will expand the target space for solid tumor 
+therapy to intracellular targets. Likewise, early clinical trial data from TCEs 
+targeting DLL3 in small cell lunger cancer showed promising antitumor activity. 
+Various technologies for conditional activation of TCEs in the tumor 
+microenvironment (TME) may expand the scope of conventional surface targets that 
+suffer from a narrow therapeutic window. Finally, pharmacological enhancements 
+for TCE therapies by engagement of certain costimulatory receptors and 
+cytokines, or blockade of checkpoints, are showing promise.
+SUMMARY: Targeting peptide-MHC complexes, conditional TCE technologies, and 
+concepts enhancing TCE-activated T cells are paving the way towards overcoming 
+challenges associated with solid tumor therapy.
+
+Copyright © 2022 The Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/CCO.0000000000000869
+PMCID: PMC9415207
+PMID: 35880455 [Indexed for MEDLINE]
+
+Conflict of interest statement: P.A.B. is an advisor and shareholder of Cullinan 
+Oncology, Inc., and H.W. is an employee and shareholder of Harpoon Therapeutics, 
+Inc.

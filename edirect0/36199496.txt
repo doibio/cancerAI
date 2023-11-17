@@ -1,0 +1,31 @@
+1. J Adv Pract Oncol. 2022 Sep;13(7):717-723. doi: 10.6004/jadpro.2022.13.7.8.
+Epub  2022 Oct 12.
+
+Tebentafusp-tebn: A Novel Bispecific T-Cell Engager for Metastatic Uveal 
+Melanoma.
+
+Hua G(1), Carlson D(2), Starr JR(1).
+
+Author information:
+(1)Geisinger Enterprise Pharmacy, Danville, Pennsylvania.
+(2)Geisinger Cancer Institute, Danville, Pennsylvania.
+
+Uveal melanoma is the most common intraocular cancer in adults. Metastatic uveal 
+melanoma has a poor prognosis. Tebentafusp-tebn is the first drug in the new 
+immune mobilizing monoclonal T-cell receptors against cancer (ImmTAC) class of T 
+cell-directed therapy. Tebentafusp-tebn has been shown in a randomized phase III 
+clinical trial to lead to improved overall survival and progression-free 
+survival when compared with single-agent pembrolizumab, ipilimumab, or 
+dacarbazine in previously untreated human leukocyte antigen 
+(HLA)-A*02:01-positive metastatic uveal melanoma patients. Tebentafusp-tebn is 
+now approved by the US Food and Drug Administration in HLA-A*02:01-positive 
+uveal melanoma patients as first-line therapy in the metastatic setting.
+
+© 2022 Harborside™.
+
+DOI: 10.6004/jadpro.2022.13.7.8
+PMCID: PMC9514125
+PMID: 36199496
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.

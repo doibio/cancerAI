@@ -1,0 +1,61 @@
+1. Prog Retin Eye Res. 2022 Sep;90:101041. doi: 10.1016/j.preteyeres.2022.101041.
+ Epub 2022 Jan 6.
+
+Metastatic uveal melanoma: The final frontier.
+
+Rantala ES(1), Hernberg MM(2), Piperno-Neumann S(3), Grossniklaus HE(4), Kivelä 
+TT(5).
+
+Author information:
+(1)Ocular Oncology Service, Department of Ophthalmology, University of Helsinki 
+and Helsinki University Hospital, Haartmaninkatu 4 C, PL 220, FI-00029, HUS, 
+Helsinki, Finland. Electronic address: elina.rantala@helsinki.fi.
+(2)Comprehensive Cancer Center, Department of Oncology, Helsinki University 
+Hospital and University of Helsinki, Paciuksenkatu 3, PL 180, FI-00029, HUS, 
+Helsinki, Finland. Electronic address: micaela.hernberg@hus.fi.
+(3)Department of Medical Oncology, Institut Curie, 26, rue d'Ulm, 75005, Paris, 
+France. Electronic address: sophie.piperno-neumann@curie.fr.
+(4)Section of Ocular Oncology, Emory Eye Center, 1365 Clifton Road B, Atlanta, 
+GA, 30322, USA. Electronic address: ophtheg@emory.edu.
+(5)Ocular Oncology Service, Department of Ophthalmology, University of Helsinki 
+and Helsinki University Hospital, Haartmaninkatu 4 C, PL 220, FI-00029, HUS, 
+Helsinki, Finland. Electronic address: tero.kivela@helsinki.fi.
+
+Treatment of primary intraocular uveal melanoma has developed considerably, its 
+driver genes are largely unraveled, and the ways to assess its risk for 
+metastases are very precise, being based on an international staging system and 
+genetic data. Unfortunately, the risk of distant metastases, which emerge in 
+approximately one half of all patients, is unaltered. Metastases are the leading 
+single cause of death after uveal melanoma is diagnosed, yet no consensus exists 
+regarding surveillance, staging, and treatment of disseminated disease, and 
+survival has not improved until recently. The final frontier in conquering uveal 
+melanoma lies in solving these issues to cure metastatic disease. Most studies 
+on metastatic uveal melanoma are small, uncontrolled, retrospective, and do not 
+report staging. Meta-analyses confirm a median overall survival of 10-13 months, 
+and a cure rate that approaches nil, although survival exceeding 5 years is 
+possible, estimated 2% either with first-line treatment or with best supportive 
+care. Hepatic ultrasonography and magnetic resonance imaging as surveillance 
+methods have a sensitivity of 95-100% and 83-100%, respectively, to detect 
+metastases without radiation hazard according to prevailing evidence, but 
+computed tomography is necessary for staging. No blood-based tests additional to 
+liver function tests are generally accepted. Three validated staging systems 
+predict, each in defined situations, overall survival after metastasis. Their 
+essential components include measures of tumor burden, liver function, and 
+performance status or metastasis free interval. Age and gender may additionally 
+influence survival. Exceptional mutational events in metastases may make them 
+susceptible to checkpoint inhibitors. In a large meta-analysis, surgical 
+treatment was associated with 6 months longer median overall survival as 
+compared to conventional chemotherapy and, recently, tebentafusp as first-line 
+treatment at the first interim analysis of a randomized phase III trial likewise 
+provided a 6 months longer median overall survival compared to investigator's 
+choice, mostly pembrolizumab; these treatments currently apply to selected 
+patients. Promoting dormancy of micrometastases, harmonizing surveillance 
+protocols, promoting staging, identifying predictive factors, initiating 
+controlled clinical trials, and standardizing reporting will be critical 
+steppingstones in reaching the final frontier of curing metastatic uveal 
+melanoma.
+
+Copyright © 2022. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.preteyeres.2022.101041
+PMID: 34999237 [Indexed for MEDLINE]

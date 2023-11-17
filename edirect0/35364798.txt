@@ -1,0 +1,32 @@
+1. Drugs. 2022 Apr;82(6):703-710. doi: 10.1007/s40265-022-01704-4.
+
+Tebentafusp: First Approval.
+
+Dhillon S(1).
+
+Author information:
+(1)Springer Nature, Private Bag 65901, Mairangi Bay, Auckland, 0754, New 
+Zealand. dru@adis.com.
+
+Tebentafusp (tebentafusp-tebn; Kimmtrak®) is a first-in-class, bispecific gp100 
+peptide-HLA-A*02:01 directed T cell receptor (TCR) CD3 T cell engager being 
+developed by Immunocore for the treatment of uveal melanoma and malignant 
+melanoma. The TCR arm of tebentafusp binds to HLA-A*02:01-positive uveal 
+melanoma cells and activates polyclonal T cells, through CD3, to release 
+inflammatory cytokines and cytolytic proteins, resulting in the direct lysis of 
+tumour cells. In January 2022, tebentafusp received its first approval in the 
+USA for the treatment of HLA-A*02:01-positive adults with unresectable or 
+metastatic uveal melanoma, and in February 2022 received a Positive Opinion from 
+the EU Committee for Medicinal Products for Human Use for the treatment of uveal 
+melanoma. Tebentafusp is under regulatory review for the treatment of metastatic 
+uveal melanoma in the UK, Australia and Canada. Clinical studies of tebentafusp 
+are underway for uveal melanoma and cutaneous melanoma in several countries 
+worldwide. This article summarizes the milestones in the development of 
+tebentafusp leading to this first approval for unresectable or metastatic uveal 
+melanoma.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s40265-022-01704-4
+PMID: 35364798 [Indexed for MEDLINE]

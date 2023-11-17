@@ -1,0 +1,49 @@
+1. Front Oncol. 2023 May 3;13:1167791. doi: 10.3389/fonc.2023.1167791.
+eCollection  2023.
+
+Successful treatment of metastatic uveal melanoma with ipilimumab and nivolumab 
+after severe progression under tebentafusp: a case report.
+
+Reiter S(1), Schroeder C(2), Broche J(2), Sinnberg T(1), Bonzheim I(3), Süsskind 
+D(4), Flatz L(1), Forschner A(1).
+
+Author information:
+(1)Department of Dermatology, University Hospital of Tübingen, Tübingen, 
+Germany.
+(2)Institute of Medical Genetics and Applied Genomics, University Hospital of 
+Tübingen, Tübingen, Germany.
+(3)Institute of Pathology and Neuropathology, University Hospital of Tübingen, 
+Tübingen, Germany.
+(4)Department of Ophthalmology, University Hospital of Tübingen, Tübingen, 
+Germany.
+
+Metastatic uveal melanoma (UM) is a rare form of melanoma differing from 
+cutaneous melanoma by etiology, prognosis, driver mutations, pattern of 
+metastases and poor response rate to immune checkpoint inhibitors (ICI). 
+Recently, a bispecific gp100 peptide-HLA-directed CD3 T cell engager, 
+tebentafusp, has been approved for the treatment of HLA-A*02:01 metastatic or 
+unresectable UM. While the treatment regime is complex with weekly 
+administrations and close monitoring, the response rate is limited. Only a few 
+data exist on combined ICI in UM after previous progression on tebentafusp. In 
+this case report, we present a patient with metastatic UM who first suffered 
+extensive progression under treatment with tebentafusp but in the following had 
+an excellent response to combined ICI. We discuss possible interactions that 
+could explain responsiveness to ICI after pretreatment with tebentafusp in 
+advanced UM.
+
+Copyright © 2023 Reiter, Schroeder, Broche, Sinnberg, Bonzheim, Süsskind, Flatz 
+and Forschner.
+
+DOI: 10.3389/fonc.2023.1167791
+PMCID: PMC10189013
+PMID: 37207136
+
+Conflict of interest statement: AF served as consultant to Immunocore, Roche, 
+Novartis, MSD, BMS, Pierre-Fabre; received travel support from Roche, Novartis, 
+BMS, Pierre-Fabre, received speaker fees from Roche, Novartis, BMS, MSD and 
+CeGaT. AF and CS report institutional research grants from BMS Stiftung 
+Immunonkologie. IB received speaker fees from Novartis, Bayer, Pfizer, Takeda 
+and AstraZeneca and honoraria for advisory board participation from BMS and 
+Novartis. The remaining authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could be construed as 
+a potential conflict of interest.

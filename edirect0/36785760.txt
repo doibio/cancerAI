@@ -1,0 +1,40 @@
+1. Drug Des Devel Ther. 2023 Feb 7;17:333-339. doi: 10.2147/DDDT.S368954. 
+eCollection 2023.
+
+Tebentafusp in the Treatment of Metastatic Uveal Melanoma: Patient Selection and 
+Special Considerations.
+
+Montazeri K(1), Pattanayak V(2), Sullivan RJ(1).
+
+Author information:
+(1)Division of Hematology/Oncology, Massachusetts General Hospital, Boston, MA, 
+USA.
+(2)Department of Pathology, Massachusetts General Hospital, Boston, MA, USA.
+
+Uveal melanoma (UM) is a rare type of melanoma with distinct features from 
+cutaneous melanoma, low response rates to immune checkpoint inhibition, and poor 
+survival rates. Tebentafusp, a bispecific antibody engaging T cells with gp 100 
+on HLA-A*02:01, was recently approved by the FDA as the first drug of its class 
+and the first treatment approved by the FDA to treat UM. In this review, we 
+summarize the preclinical and clinical data on tebentafusp for UM. We 
+additionally discuss patient selection and the relevant challenges. For the 
+literature search, PubMed search and relevant articles presented at 
+international conferences were used.
+
+© 2023 Montazeri et al.
+
+DOI: 10.2147/DDDT.S368954
+PMCID: PMC9921510
+PMID: 36785760 [Indexed for MEDLINE]
+
+Conflict of interest statement: Kamaneh Montazeri reports no conflicts of 
+interest in this work. Ryan J Sullivan reports accepting fees for 
+consulting/advisory board participation from BMS, Merck, Novartis, Eisai, 
+Iovance, and Pfizer and has received grant funding from Merck. Vikram Pattanayak 
+has a financial interest in SeQure, Dx, Inc., a company developing technologies 
+for gene editing target profiling. Vikram Parranayak’s interests were reviewed 
+and are managed by Massachusetts General Hospital and Mass General Brigham in 
+accordance with their conflict-of-interest policies. He also reports royalty 
+payments from Harvard University and Massachusetts General Hospital for the IP 
+license in the gene editing space. The authors report no other conflicts of 
+interest in this work.

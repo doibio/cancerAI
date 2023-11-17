@@ -1,0 +1,38 @@
+1. Clin Cancer Res. 2023 Feb 16;29(4):697-704. doi:
+10.1158/1078-0432.CCR-22-0028.
+
+Redirecting Polyclonal T Cells against Cancer with Soluble T-Cell Receptors.
+
+Berman DM(1), Bell JI(2).
+
+Author information:
+(1)Research and Development, Immunocore, Rockville, Maryland.
+(2)Oxford University, Oxford, United Kingdom.
+
+Cancer cells accumulate genetic mutations in coding proteins that may be 
+presented by HLA as neoantigenic peptides (peptide HLA, pHLA). T cells scan for 
+neoantigenic pHLA by the T-cell receptor (TCR):CD3 complex. This complex has the 
+dual function of binding pHLA, by the TCR, and triggering T-cell activation by 
+CD3. Checkpoint therapy activates exhausted T cells to kill cancer cells and 
+generally work best against tumors with high neoantigen burden and in patients 
+with neoantigenic-reactive T cells. TCR T-cell engagers (TCE) are a novel class 
+of immunotherapy that bypasses these two requirements by redirecting polyclonal 
+T cells, regardless of their native specificity, to kill a cancer cell 
+independent of neoantigen burden. This is accomplished through deconstructing 
+the membrane-bound TCR:CD3 complex into a soluble bispecific protein comprised 
+of a targeting domain (TCR) and activating domain (usually anti-CD3 single-chain 
+variable fragment). The pool of targets for TCR TCE is larger than for antibody 
+therapeutics and includes >90% of human intra- or extracellular proteins. Most 
+tumor-associated antigens for solid tumors are intracellular and accessible only 
+by a TCR therapeutic. Tebentafusp, a TCR TCE directed to a peptide derived from 
+the gp100 melanoma protein presented by HLA*A02:01, demonstrated a survival 
+benefit in metastatic uveal melanoma (mUM). This survival benefit highlights the 
+promise of TCR TCEs because mUM is a solid tumor with a very low neoantigen 
+burden and has poor response to checkpoints and chemotherapy. Other TCR TCE 
+programs are now in clinical studies for a broader range of tumors.
+
+©2022 The Authors; Published by the American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-22-0028
+PMCID: PMC9932579
+PMID: 36255733 [Indexed for MEDLINE]

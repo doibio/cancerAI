@@ -1,0 +1,17 @@
+1. Tebentafusp.
+
+LiverTox: Clinical and Research Information on Drug-Induced Liver Injury 
+[Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and 
+Kidney Diseases; 2012–.
+2023 Jul 30.
+
+Tebentafusp is a recombinant bispecific fusion protein that binds both the gp100 
+peptide expressed in HLA-A*02:01 on melanoma cells and the CD3 T cell engager. 
+It is used to treat metastatic or unresectable uveal melanoma. Tebentafusp is 
+associated with frequent elevations in serum ALT, AST and bilirubin during 
+therapy, usually in association with cytokine release syndrome that can lead to 
+interruption or early discontinuation of therapy, but instances of clinically 
+apparent liver injury with jaundice independent of cytokine release syndrome 
+have not been reported.
+
+PMID: 37643277

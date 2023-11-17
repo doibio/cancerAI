@@ -1,0 +1,41 @@
+1. J Dtsch Dermatol Ges. 2023 Oct 30. doi: 10.1111/ddg.15225. Online ahead of 
+print.
+
+Identifying biomarkers and novel therapeutic targets in uveal melanoma.
+
+Wessely A(1)(2)(3), Koch EAT(1)(2)(3), Vera J(1)(2)(3), Berking C(1)(2)(3), 
+Heppt MV(1)(2)(3).
+
+Author information:
+(1)Department of Dermatology, Uniklinikum Erlangen, 
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.
+(2)Comprehensive Cancer Center Erlangen-European Metropolitan Area of Nürnberg 
+(CCC ER-EMN), Erlangen, Germany.
+(3)Deutsches Zentrum für Immuntherapie (DZI), Uniklinikum Erlangen, 
+Friedrich-Alexander-University Erlangen-Nürnberg (FAU), Erlangen, Germany.
+
+Uveal melanoma (UM) is an orphan cancer despite being the most common eye tumor 
+in adults. Patients often present to skin cancer centers for treatment of 
+metastatic disease although there are significant genetic, biological, and 
+clinical differences from cutaneous melanoma. The treatments most commonly used 
+for metastatic UM are tebentafusp and combined immune checkpoint blockade, both 
+of which yield low response rates and may be accompanied by high treatment costs 
+and significant immune-related toxicities. Thus, it is of paramount importance 
+to identify biomarkers and clinical profiles predictive of treatment response 
+and to find novel therapeutic targets. The use of immune checkpoint blockade 
+showed more favorable outcomes in patients with extrahepatic disease and normal 
+levels of serum lactate dehydrogenase in a panel of retrospective studies, 
+making its use more reasonable in this subgroup. To identify novel drug targets, 
+we will analyze the expression and relevance of neural crest transcription 
+factors in patient bio-specimens using next-generation nanopore sequencing. 
+Computer algorithms and network-based analysis will facilitate the 
+identification of druggable targets which will subsequently be validated in 
+patient-derived short-term cell cultures. This approach will help to find novel 
+and personalized treatments for UM.
+
+© 2023 The Authors. Journal der Deutschen Dermatologischen Gesellschaft 
+published by John Wiley & Sons Ltd on behalf of Deutsche Dermatologische 
+Gesellschaft.
+
+DOI: 10.1111/ddg.15225
+PMID: 37902386

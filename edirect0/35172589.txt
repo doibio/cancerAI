@@ -1,0 +1,36 @@
+1. Future Oncol. 2022 Apr;18(11):1303-1311. doi: 10.2217/fon-2021-1260. Epub 2022
+ Feb 17.
+
+Tebentafusp for the treatment of metastatic uveal melanoma.
+
+Schank TE(1)(2), Hassel JC(1)(2).
+
+Author information:
+(1)Department of Dermatology, University Hospital Heidelberg, Heidelberg, 69120, 
+Germany.
+(2)National Center for Tumor Diseases, University Hospital Heidelberg, 
+Heidelberg, 69120, Germany.
+
+Uveal melanoma is a rare disease; nevertheless, it is the most common primary 
+intraocular malignancy among adults. Approximately half of affected patients 
+will suffer from metastatic disease, mostly to the liver. No standard-of-care 
+treatment exists for these patients. Median progression-free survival and 
+overall survival for all types of treatment, including checkpoint inhibitors, 
+have remained poor. However, the most recent phase III study results for 
+tebentafusp, a member of a new-in-class molecule, are raising hopes for stage IV 
+uveal melanoma patients. In this review, we examine the current literature, 
+focusing on the most recent trial results for this new reagent. We evaluate the 
+latest clinical results for tebentafusp and aim to shed light on its 
+immunological strategy.
+
+Plain Language Summary: Uveal melanoma is a rare disease but is the most 
+common tumor of the eye among adults. In approximately half patients who have 
+uveal melanoma, it will spread to other parts of the body, mostly to the liver. 
+There is no standard type of therapy for these patients. So far, all existing 
+therapies have shown poor outcomes. However, the new treatment tebentafusp has 
+shown encouraging results in a recent clinical study. In this review, we discuss 
+the latest study results for tebentafusp and outline how it works as a treatment 
+for uveal melanoma.
+
+DOI: 10.2217/fon-2021-1260
+PMID: 35172589 [Indexed for MEDLINE]

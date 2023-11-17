@@ -1,0 +1,38 @@
+1. CPT Pharmacometrics Syst Pharmacol. 2023 Jan 29. doi: 10.1002/psp4.12928.
+Online  ahead of print.
+
+Mechanistically modeling peripheral cytokine dynamics following bispecific 
+dosing in solid tumors.
+
+Weddell J(1).
+
+Author information:
+(1)Clinical Pharmacology and Exploratory Development, Astellas Pharma Global 
+Development Inc., Northbrook, Illinois, USA.
+
+Bispecific antibodies exhibit proven clinical benefit, and many bispecifics are 
+currently in clinical development for oncology. Cytokine release syndrome (CRS) 
+is a common clinical adverse effect observed following CD3-based bispecific 
+dosing. However, the pathophysiology of CRS is not fully understood, and no 
+computational model mechanistically describing clinical cytokine dynamics 
+following bispecific dosing in solid tumors exists. Here, a quantitative systems 
+pharmacology (QSP) model describing peripheral clinical cytokine dynamics 
+following bispecific dosing in solid tumors is presented. Using tebentafusp as a 
+case study, a CD3-bispecific approved for uveal melanoma, the model successfully 
+captures the dynamics of five cytokines. The QSP model was shown to predict 
+observed phenomena, such as cytokine maximum concentration suppression using 
+step-up dosing regimens and the importance of on-target off-tumor binding toward 
+CRS and toxicity. Furthermore, the QSP model provides rationale for these 
+biological phenomena based on dynamics of immune cell activation and 
+desensitization in tumors and healthy tissues. Overall, the QSP model structure 
+presented here serves as a basis to infer cytokine dynamics for other CD3-based 
+bispecifics or tumor types by altering model parameters to capture the scenario 
+of interest, supporting applications including dose selection, candidate 
+nomination, and disease area selection.
+
+© 2023 The Author. CPT: Pharmacometrics & Systems Pharmacology published by 
+Wiley Periodicals LLC on behalf of American Society for Clinical Pharmacology 
+and Therapeutics.
+
+DOI: 10.1002/psp4.12928
+PMID: 36710368

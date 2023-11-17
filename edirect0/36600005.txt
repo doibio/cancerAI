@@ -1,0 +1,55 @@
+1. Nat Rev Clin Oncol. 2023 Feb;20(2):99-115. doi: 10.1038/s41571-022-00714-1.
+Epub  2023 Jan 4.
+
+Advances in the clinical management of uveal melanoma.
+
+Carvajal RD(1), Sacco JJ(2), Jager MJ(3), Eschelman DJ(4), Olofsson Bagge R(5), 
+Harbour JW(6), Chieng ND(7), Patel SP(8), Joshua AM(9)(10), Piperno-Neumann 
+S(11).
+
+Author information:
+(1)Department of Medicine, Columbia University Irving Medical Center, New York, 
+NY, USA. carvajalr@columbia.edu.
+(2)Institute of Systems, Molecular and Integrative Biology, University of 
+Liverpool, Liverpool, UK.
+(3)Department of Ophthalmology, Leiden University Medical Center, Leiden, The 
+Netherlands.
+(4)Department of Radiology, Thomas Jefferson University, Philadelphia, PA, USA.
+(5)Department of Surgery, Sahlgrenska University Hospital, Gothenburg, Sweden.
+(6)Department of Ophthalmology and Simmons Comprehensive Cancer Center, UT 
+Southwestern Medical Center, Dallas, TX, USA.
+(7)Medical Imaging Services, Royal North Shore Hospital, St Leonards, New South 
+Wales, Australia.
+(8)Department of Melanoma Medical Oncology, MD Anderson Cancer Center, Houston, 
+TX, USA.
+(9)Department of Medical Oncology, Kinghorn Cancer Centre, St Vincent's Hospital 
+Sydney and Garvan Institute of Medical Research, Sydney, New South Wales, 
+Australia.
+(10)School of Clinical Medicine, UNSW Medicine & Health, St Vincent's Healthcare 
+Clinical Campus, Faculty of Medicine and Health, UNSW, Sydney, New South Wales, 
+Australia.
+(11)Department of Medical Oncology, Institut Curie, Paris, France.
+
+Melanomas arising in the uveal tract of the eye are a rare form of the disease 
+with a biology and clinical phenotype distinct from their more common cutaneous 
+counterparts. Treatment of primary uveal melanoma with radiotherapy, enucleation 
+or other modalities achieves local control in more than 90% of patients, 
+although 40% or more ultimately develop distant metastases, most commonly in the 
+liver. Until January 2022, no systemic therapy had received regulatory approval 
+for patients with metastatic uveal melanoma, and these patients have 
+historically had a dismal prognosis owing to the limited efficacy of the 
+available treatments. A series of seminal studies over the past two decades have 
+identified highly prevalent early, tumour-initiating oncogenic genomic 
+aberrations, later recurring prognostic alterations and immunological features 
+that characterize uveal melanoma. These advances have driven the development of 
+a number of novel emerging treatments, including tebentafusp, the first systemic 
+therapy to achieve regulatory approval for this disease. In this Review, our 
+multidisciplinary and international group of authors summarize the biology of 
+uveal melanoma, management of primary disease and surveillance strategies to 
+detect recurrent disease, and then focus on the current standard and emerging 
+regional and systemic treatment approaches for metastatic uveal melanoma.
+
+© 2023. Springer Nature Limited.
+
+DOI: 10.1038/s41571-022-00714-1
+PMID: 36600005 [Indexed for MEDLINE]

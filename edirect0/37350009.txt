@@ -1,0 +1,52 @@
+1. Curr Mol Med. 2023 Jun 22. doi: 10.2174/1566524023666230622151034. Online
+ahead  of print.
+
+Pharmacological profile of novel anti-cancer drugs approved by USFDA in 2022: A 
+Review.
+
+Sangwan K(1), Sharma V(2), Goyal PK(2).
+
+Author information:
+(1)Panipat Institute of Engineering and Technology Department of Pharmacy 
+Panipat India.
+(2)Department of Pharmacy, Panipat Institute of Engineering and Technology 
+(PIET), Samalkha, Panipat-132102, Haryana, India.
+
+BACKGROUND: For any drug molecule, it is mandatory to pass the drug approval 
+process of the concerned regulatory authority, before being marketed. The Food 
+and Drug Administration (FDA), throughout the year, approves several new drugs 
+for safety and efficacy. In addition to new drug approvals, FDA also works on 
+improving access to generic drugs, aimed to lower the cost of drugs for patients 
+and improve access to treatments. In the year 2022 twelve new drug therapies 
+were approved for managing varying cancers.
+METHOD: This manuscript is focused to describe the pharmacological aspects 
+including therapeutic uses, mechanisms of actions, pharmacokinetics, adverse 
+effects, doses, indication for special cases, contraindications, etc., of novel 
+FDA-approved anticancer drug therapies in the year 2022.
+RESULT: FDA has approved about 29% (11 out of 37) novel drug therapies for 
+varying types of cancers such as lung cancer, breast cancer, prostate cancer, 
+melanoma, leukemia, etc. The Center for Drug Evaluation and Research CDER has 
+reported that 90% of these anticancer drugs (e.g. Adagrasib, Futibatinib, 
+Mirvetuximabsoravtansine-gynx, Mosunetuzumab-axb, Nivolumab and relatlimab-rmbw, 
+Olutasidenib, Pacritinib, Tebentafusp-tebn, Teclistamab-cqyv, and 
+Tremelimumab-actl) as orphan drugs and recommended to treat rare or uncommon 
+cancers such as non-small cell lung cancer, metastatic intrahepatic 
+cholangio-carcinoma, epithelial ovarian cancer, follicular lymphoma, metastatic 
+melanoma, metastatic uveal melanoma, etc. CDER has identified six anticancer 
+drugs (e.g. Lutetium (177Lu)vipivotidetetraxetan, Mirvetuximabsoravtansine-gynx, 
+Mosunetuzumab-axb, Nivolumab and relatlimab-rmbw, Tebentafusp-tebn, 
+Teclistamab-cqyv) as first-in-class drugs i.e. drugs having different mechanisms 
+of action from the already existing ones. The newly approved anticancer drugs 
+shall provide more efficient treatment options for cancer patients. Three 
+FDA-approved anticancer drugs in the year 2023 are also briefly described in the 
+manuscript.
+CONCLUSION: This manuscript, describing the pharmacological aspects of eleven 
+anticancer novel drug therapies approved by the FDA, shall serve as a helpful 
+document for cancer patients, concerned academicians, researchers, and 
+clinicians, especially oncologists.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1566524023666230622151034
+PMID: 37350009

@@ -1,0 +1,93 @@
+1. Cancer Treat Rev. 2023 Apr;115:102543. doi: 10.1016/j.ctrv.2023.102543. Epub 
+2023 Mar 13.
+
+Is tebentafusp superior to combined immune checkpoint blockade and other 
+systemic treatments in metastatic uveal melanoma? A comparative efficacy 
+analysis with population adjustment.
+
+Petzold A(1), Steeb T(2), Wessely A(3), Koch EAT(4), Vera J(5), Berking C(6), 
+Heppt MV(7).
+
+Author information:
+(1)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Anne.Petzold@uk-erlangen.de.
+(2)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Theresa.Steeb@uk-erlangen.de.
+(3)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Anja.Wessely@uk-erlangen.de.
+(4)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Elias.Koch@uk-erlangen.de.
+(5)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Julio.Vera-Gonzalez@uk-erlangen.de.
+(6)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Carola.Berking@uk-erlangen.de.
+(7)Department of Dermatology, Uniklinikum Erlangen, Friedrich-Alexander 
+University Erlangen-Nürnberg (FAU), Erlangen, Germany; Comprehensive Cancer 
+Center Erlangen-European Metropolitan Area of Nuremberg (CCC ER-EMN), Erlangen, 
+Germany; Deutsches Zentrum Immuntherapie (DZI), Uniklinikum Erlangen, Erlangen, 
+Germany. Electronic address: Markus.Heppt@uk-erlangen.de.
+
+BACKGROUND: Distinct systemic treatments exist for metastatic uveal melanoma. 
+Tebentafusp and combined immune checkpoint blockade (ICB) with ipilimumab plus 
+anti-PD-1 antibodies are the most commonly used treatment options but their 
+comparative efficacy is unclear. The aim of this study is to compare currently 
+available systemic treatments regarding overall survival (OS) and 
+progression-free survival (PFS) with a focus on the comparison of tebentafusp 
+versus combined ICB.
+METHODS: The protocol for this study was defined a priori and registered online 
+in the PROSPERO international prospective register of systematic reviews 
+(CRD42022308356, date of registration: 7.2.2022). We performed a systematic 
+literature search in Medline, Embase, and Central to identify eligible studies 
+reporting Kaplan-Meier curves or individual-level survival data showing OS and 
+PFS for metastatic uveal melanoma patients treated with systemic treatments. 
+Kaplan-Meier curves were digitized using the "WebPlotDigitizer" program. 
+Individual-level survival data were subsequently remodelled and pooled for 
+distinct treatment groups. To compare the OS of tebentafusp versus combined ICB, 
+we used matching-adjusted indirect comparison (MAIC), two-stage MAIC (2SMAIC), 
+and simulated treatment comparison (STC) together with digitized 
+individual-level survival data as population-adjusted models.
+RESULTS: Overall, 55 independent studies were included of which 2,682 patients 
+were evaluable for OS and 2,258 for PFS. Tebentafusp showed the highest median 
+OS (mOS) of 22.4 months (95% confidence interval (CI): 19.9-29.6) compared to 
+combined ICB (mOS: 15.7 months (95% CI: 14.4-17.9)), anti-PD-(L)1 antibody (mOS: 
+10.9 months (95% CI: 9.8-13.4)), chemotherapy (mOS: 9.95 months (95% CI: 
+8.9-11.2)), targeted therapies (mOS: 8.86 months (95% CI: 7.5-10.8)), and 
+anti-CTLA-4 antibody (mOS: 7.8 months (95% CI: 6.8-9.3). The median PFS (mPFS) 
+was similar among the treatment groups ranging from 2.7 months to 3.4 months. 
+For the comparison of tebentafusp versus combined ICB, the hazard ratio (HR) was 
+0.641 (95% CI: 0.449-0.915) in the unadjusted model, whereas the 
+population-adjusted models showed a HR of 0.386 (95% CI: 0.236-0.631) using 
+MAIC, 0.378 (95% CI: 0.234-0.612) applying 2SMAIC and 0.284 (95% CI: 
+0.184-0.440) using STC.
+CONCLUSIONS: Tebentafusp achieved the best results compared to combined ICB and 
+other systemic treatments, although these results have to be interpreted with 
+caution due to the approximative methodical approach and high heterogeneity of 
+included studies.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2023.102543
+PMID: 36931146 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

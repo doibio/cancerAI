@@ -1,0 +1,36 @@
+1. Cancer Treat Rev. 2019 Jul;77:35-43. doi: 10.1016/j.ctrv.2019.06.001. Epub
+2019  Jun 12.
+
+Novel TCR-based biologics: mobilising T cells to warm 'cold' tumours.
+
+Lowe KL(1), Cole D(1), Kenefeck R(1), OKelly I(1), Lepore M(1), Jakobsen BK(2).
+
+Author information:
+(1)Immunocore Ltd, Abingdon, Oxford, United Kingdom.
+(2)Immunocore Ltd, Abingdon, Oxford, United Kingdom. Electronic address: 
+bent.jakobsen@immunocore.com.
+
+Immunotherapeutic strategies have revolutionised cancer therapy in recent years, 
+bringing meaningful improvements in outcomes for patients with previously 
+intractable conditions. These successes have, however, been largely limited to 
+certain types of liquid tumours and a small subset of solid tumours that are 
+known to be particularly immunogenic. Broadening these advances across the 
+majority of tumour indications, which are characterised by an immune-excluded, 
+immune-deserted or immune-suppressed ('cold') phenotype, will require 
+alternative approaches that are able to specifically address this unique 
+biological environment. Several newer therapeutic modalities, including adoptive 
+cell therapy and T cell redirecting bispecific molecules, are considered to hold 
+particular promise and are being investigated in early phase clinical trials 
+across various solid tumour indications. ImmTAC molecules are a novel class of T 
+cell redirecting bispecific biologics that exploit TCR-based targeting of tumour 
+cells; providing potent and highly specific access to the vast landscape of 
+intracellular targets. The first of these reagents to reach the clinic, 
+tebentafusp (IMCgp100), has generated demonstrable clinical efficacy in an 
+immunologically cold solid tumour with a high unmet need. Here, we highlight the 
+key elements of the ImmTAC platform that make it ideally positioned to overcome 
+the cold tumour microenvironment in an off-the-shelf format.
+
+Copyright © 2019 The Author(s). Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2019.06.001
+PMID: 31207478 [Indexed for MEDLINE]

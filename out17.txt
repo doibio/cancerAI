@@ -1,0 +1,21 @@
+cohere.Chat {
+	id: 0b1eab65-078c-40f6-81d1-c9b3bc529d98
+	response_id: 0b1eab65-078c-40f6-81d1-c9b3bc529d98
+	generation_id: b28830e3-ca85-4316-88c5-ee9c09f19eea
+	message: What does Immunocore do?
+	text: Immunocore Ltd supported a studentship (OSH) but did not have any input into the design, data collection, analysis, interpretation and write-up of this particular project. 
+
+I also managed to find a reference to Immunocore in another one of your results, in the context of a consultant receiving fees from Immunocore alongside several other companies. Would you like to know more about this mention?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7f5530e8a260>
+	token_count: {'prompt_tokens': 3571, 'response_tokens': 84, 'total_tokens': 3655, 'billed_tokens': 91}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: [{'start': 15, 'end': 44, 'text': 'supported a studentship (OSH)', 'document_ids': ['doc_16:3']}, {'start': 49, 'end': 171, 'text': 'did not have any input into the design, data collection, analysis, interpretation and write-up of this particular project.', 'document_ids': ['doc_16:3']}, {'start': 275, 'end': 351, 'text': 'consultant receiving fees from Immunocore alongside several other companies.', 'document_ids': ['doc_27:5']}]
+	documents: [{'id': 'doc_16:3', 'snippet': '\n\nDOI: 10.1097/j.pain.0000000000002386\nPMCID: PMC7612369\nPMID: 34224495 [Indexed for MEDLINE]\n\nConflict of interest statement: Conflict of interest statement: The authors \nreport no conflict of interest. Immunocore Ltd supported a studentship (OSH) but \ndid not have any input into the design, data collection, analysis, \ninterpretation and write-up of this project. DLHB has acted as a consultant on \nbehalf of Oxford Innovation in the last 2 years for Amgen, CODA therapeutic, \nBristows, Lilly, Munidpharma and Theranexus.\n', 'title': '34224495'}, {'id': 'doc_27:5', 'snippet': ' HA-S—Nothing to disclose. \nPAA—Consulting Fees: BMS, Roche, Array, Novartis, Merck Serono, Pierre Fabre, \nIncyte, Medimmune, AstraZeneca, Sun Pharma, Sanofi, Idera, Ultimovacs, Sandoz, \nImmunocore, 4SC, Italfarmaco, Nektar, Boehringer-Ingelheim, Eisai, Regeneron, \nDaiichi Sankyo, Pfizer, Oncosec, Nouscom, Lunaphore, Seagen, iTEOS, Medicenna; \nContracted Research: BMS, Roche-Genentech, Array, Sanofi. MRB—Consulting Fees: \nNovartis, Kite/Gilead, CRISPR Therapeutics, Autolus, Takeda, Agios, Iovance, \nBluebird Bio, BMS; Fees for Non-CE Services: Agio, BMS, Incyte, Sanofi, \nKite/Gilead; Contracted Research: Immatics, Novartis, Kite/Gilead, CRISPR \nTherapeutics, Autolus, TMUNITY. DSC—Ownership Interest (less than 5%): IGM \nBiosciences, Corvus. MD—Consulting Fees: Lava Therapeutics, Amgen, Janssen, \nRoche/Genentech. LAE—Consulting Fees: Genentech, F. Hoffmann-La Roche, Chugai, \nGPCR, Gilead, Immune Onc, Immutep, Shionogi, Mersana; Contracted Research: \nAbbVie, AstraZeneca, Bolt Therapeutics, Bristol Myers Squibb, Compugen, Corvus, \nCytomX, EMD Serono, Genentech, F. Hoffmann-La Roche, ImmuneOnc, Maxcyte, Merck, \nNext Cure, Silverback, Takeda, Tempest; Grants from Non-Industry Entities: \nHeritX Incorporated, NSABP Foundation, Translational Breast Cancer Research \nConsortium, Breast Cancer Research Foundation, National Cancer Institute, \nDepartment of Defense, Johns Hopkins University, University of California San \nFrancisco, Cornell University, Dana Farber Cancer Institute.', 'title': '36175037'}]
+	search_results: None
+	search_queries: [{'text': 'immunocore ?', 'generation_id': '6a4bc284-6acc-42aa-ab67-d834417a301c'}]
+}

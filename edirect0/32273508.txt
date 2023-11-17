@@ -1,0 +1,55 @@
+1. Nat Rev Dis Primers. 2020 Apr 9;6(1):24. doi: 10.1038/s41572-020-0158-0.
+
+Uveal melanoma.
+
+Jager MJ(1), Shields CL(2), Cebulla CM(3), Abdel-Rahman MH(3)(4), Grossniklaus 
+HE(5)(6), Stern MH(7), Carvajal RD(8), Belfort RN(9), Jia R(10), Shields JA(2), 
+Damato BE(11).
+
+Author information:
+(1)Department of Ophthalmology, Leiden University Medical Center, Leiden, The 
+Netherlands. m.j.jager@lumc.nl.
+(2)Ocular Oncology Service, Wills Eye Hospital, Thomas Jefferson University, 
+Philadelphia, PA, USA.
+(3)Havener Eye Institute, Department of Ophthalmology and Visual Science, The 
+Ohio State University Wexner Medical Center, Columbus, OH, USA.
+(4)Division of Human Genetics, Department of Internal Medicine, The Ohio State 
+University Columbus, Columbus, OH, USA.
+(5)Department of Ophthalmology, Emory University, Atlanta, GA, USA.
+(6)Department of Pathology and Laboratory Medicine, Emory University Atlanta, 
+GA, USA.
+(7)Inserm U830, DNA Repair and Uveal Melanoma (D.R.U.M.), Equipe labellisée par 
+la Ligue Nationale Contre le Cancer, Institut Curie, PSL Research University, 
+Paris, France.
+(8)Department of Medicine, Columbia University Medical Center, New York, NY, 
+USA.
+(9)Department of Ophthalmology and Visual Sciences, Federal University of São 
+Paulo, São Paulo, Brazil.
+(10)Department of Ophthalmology, Ninth People's Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(11)Nuffield Department of Clinical Neurosciences, University of Oxford, West 
+Wing, John Radcliffe Hospital, Oxford, UK.
+
+Erratum in
+    Nat Rev Dis Primers. 2022 Jan 17;8(1):4.
+
+Uveal melanoma (UM) is the most common primary intraocular malignancy in adults. 
+UMs are usually initiated by a mutation in GNAQ or GNA11, unlike cutaneous 
+melanomas, which usually harbour a BRAF or NRAS mutation. The annual incidence 
+in Europe and the USA is ~6 per million population per year. Risk factors 
+include fair skin, light-coloured eyes, congenital ocular melanocytosis, ocular 
+melanocytoma and the BAP1-tumour predisposition syndrome. Ocular treatment aims 
+at preserving the eye and useful vision and, if possible, preventing metastases. 
+Enucleation has largely been superseded by various forms of radiotherapy, 
+phototherapy and local tumour resection, often administered in combination. 
+Ocular outcomes are best with small tumours not extending close to the optic 
+disc and/or fovea. Almost 50% of patients develop metastatic disease, which 
+usually involves the liver, and is usually fatal within 1 year. Although UM 
+metastases are less responsive than cutaneous melanoma to chemotherapy or immune 
+checkpoint inhibitors, encouraging results have been reported with partial 
+hepatectomy for solitary metastases, with percutaneous hepatic perfusion with 
+melphalan or with tebentafusp. Better insight into tumour immunology and 
+metabolism may lead to new treatments.
+
+DOI: 10.1038/s41572-020-0158-0
+PMID: 32273508 [Indexed for MEDLINE]

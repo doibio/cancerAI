@@ -1,0 +1,30 @@
+1. Ther Adv Med Oncol. 2023 Mar 21;15:17588359231160140. doi: 
+10.1177/17588359231160140. eCollection 2023.
+
+Tebentafusp: a first-in-class treatment for metastatic uveal melanoma.
+
+Howlett S(1), Carter TJ(1), Shaw HM(1)(2), Nathan PD(3).
+
+Author information:
+(1)Mount Vernon Cancer Centre, Northwood, Middlesex, UK.
+(2)University College London Hospital, London, UK.
+(3)Mount Vernon Cancer Centre, Rickmansworth Road, Northwood, Middlesex HA6 2RN, 
+UK.
+
+Tebentafusp is a first-in-class immunotherapy agent that comprises an engineered 
+T-cell receptor targeting a gp100 epitope presented by human leukocyte 
+antigen-A*02:01 cells, fused to an anti-CD3 single-chain variable fragment. 
+Tebentafusp is both the first bispecific T-cell engager to show efficacy in the 
+treatment of advanced solid cancer and the first anti-cancer treatment to 
+demonstrate an overall survival benefit in patients with uveal melanoma (UM). 
+This review article will focus on the clinical development of tebentafusp, the 
+mechanism of action and resultant evolution of the management of advanced UM.
+
+© The Author(s), 2023.
+
+DOI: 10.1177/17588359231160140
+PMCID: PMC10031621
+PMID: 36970111
+
+Conflict of interest statement: The authors declare that there is no conflict of 
+interest.

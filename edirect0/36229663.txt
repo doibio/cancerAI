@@ -1,0 +1,134 @@
+1. Nat Med. 2022 Nov;28(11):2364-2373. doi: 10.1038/s41591-022-02015-7. Epub 2022
+ Oct 13.
+
+Clinical and molecular response to tebentafusp in previously treated patients 
+with metastatic uveal melanoma: a phase 2 trial.
+
+Carvajal RD(1), Butler MO(2), Shoushtari AN(3)(4), Hassel JC(5), Ikeguchi A(6), 
+Hernandez-Aya L(7), Nathan P(8), Hamid O(9), Piulats JM(10), Rioth M(11), 
+Johnson DB(12), Luke JJ(13), Espinosa E(14), Leyvraz S(15), Collins L(16), 
+Goodall HM(16), Ranade K(17), Holland C(17), Abdullah SE(17), Sacco JJ(18)(19), 
+Sato T(20).
+
+Author information:
+(1)Herbert Irving Comprehensive Cancer Center, Columbia University Irving 
+Medical Center, New York, NY, USA.
+(2)Princess Margaret Cancer Centre, University of Toronto, Toronto, Ontario, 
+Canada.
+(3)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(4)Weill Cornell Medical College, New York, NY, USA.
+(5)University Hospital Heidelberg, Heidelberg, Germany.
+(6)Stephenson Cancer Center, University of Oklahoma, Oklahoma City, OK, USA.
+(7)Washington University School of Medicine, Saint Louis, MO, USA.
+(8)Mount Vernon Cancer Centre - East and North Herts NHS Trust, Northwood, 
+Middlesex, UK.
+(9)The Angeles Clinic and Research Institute, a Cedars-Sinai Affiliate, Los 
+Angeles, CA, USA.
+(10)Institut Català d'Oncologia l'Hospitalet (Hospital Duran i Reynals), 
+Hospitalet de Llobregat, Barcelona, Spain.
+(11)UC Cancer Center, University of Colorado, Aurora, CO, USA.
+(12)Vanderbilt-Ingram Cancer Center, Vanderbilt University Medical Center, 
+Nashville, TN, USA.
+(13)UPMC Hillman Cancer Center, University of Pittsburgh, Pittsburgh, PA, USA.
+(14)Hospital Universitario La Paz - CIBERONC, Madrid, Spain.
+(15)Charité Comprehensive Cancer Center, Charité - Universitätsmedizin Berlin, 
+Berlin, Germany.
+(16)Immunocore, Abingdon-on-Thames, UK.
+(17)Immunocore, Rockville, MD, USA.
+(18)Clatterbridge Cancer Center - NHS Foundation Trust, Wirral, UK.
+(19)University of Liverpool, Liverpool, UK.
+(20)Sidney Kimmel Cancer Center, Jefferson University, Philadelphia, PA, USA. 
+takami.sato@jefferson.edu.
+
+In patients with previously treated metastatic uveal melanoma, the historical 
+1 year overall survival rate is 37% with a median overall survival of 
+7.8 months. We conducted a multicenter, single-arm, open-label phase 2 study of 
+tebentafusp, a soluble T cell receptor bispecific (gp100×CD3), in 127 patients 
+with treatment-refractory metastatic uveal melanoma (NCT02570308). The primary 
+endpoint was the estimation of objective response rate based on RECIST (Response 
+Evaluation Criteria in Solid Tumours) v1.1. Secondary objectives included 
+safety, overall survival, progression-free survival and disease control rate. 
+All patients had at least one treatment-related adverse event, with rash (87%), 
+pyrexia (80%) and pruritus (67%) being the most common. Toxicity was mostly mild 
+to moderate in severity but was greatly reduced in incidence and intensity after 
+the initial three doses. Despite a low overall response rate of 5% (95% CI: 
+2-10%), the 1 year overall survival rate was 62% (95% CI: 53-70%) with a median 
+overall survival of 16.8 months (95% CI: 12.9-21.3), suggesting benefit beyond 
+traditional radiographic-based response criteria. In an exploratory analysis, 
+early on-treatment reduction in circulating tumour DNA was strongly associated 
+with overall survival, even in patients with radiographic progression. Our 
+findings indicate that tebentafusp has promising clinical activity with an 
+acceptable safety profile in patients with previously treated metastatic uveal 
+melanoma, and data suggesting ctDNA as an early indicator of clinical benefit 
+from tebentafusp need confirmation in a randomized trial.
+
+© 2022. The Author(s), under exclusive licence to Springer Nature America, Inc.
+
+DOI: 10.1038/s41591-022-02015-7
+PMCID: PMC9671803
+PMID: 36229663 [Indexed for MEDLINE]
+
+Conflict of interest statement: R.D.C. discloses consulting: Alkermes, BMS, 
+Castle Biosciences, Delcath, Eisai, Hengrui, Ideaya, Immunocore, InxMed, 
+Iovance, Merck, Novartis, Oncosec, Pierre Fabre, PureTech Health, Regeneron, 
+Sanofi Genzyme, Sorrento Therapeutics, Trisalus; clinical/scientific advisory 
+boards: Aura Biosciences, Chimeron, Rgenix. M.O.B. discloses 
+advisory/consulting: Merck, BMS, Novartis, Sanofi, Pfizer, Adaptimmune, GSK, 
+Immunocore, EMD Serono, Sun Pharma, Medison, Instil Bio, IOVANCE; research 
+funding to self: Merck, Takara Bio; research funding to institution: Merck, BMS, 
+Novartis, Sanofi, Adaptimmune, Immunocore, Regeneron, Lilly, Amgen, OncoSeq; 
+Speaker: BMS, Merck, Pfizer, Novartis, Sanofi. A.N.S. discloses honoraria 
+advisory board/personal fees: BMS, Castle Biosciences, Immunocore, Novartis; 
+licensing/royalties: UpToDate; research funding to institution: BMS, Checkmate 
+Pharmaceuticals, Foghorn Therapeutics, GSK, Immunocore, Novartis, Pfizer, 
+Polaris, Targovax, Xcovery. J.C.H. discloses advisory boards (self): GSK, MSD, 
+Pierre Fabre, Sun Pharma; advisory boards (institution): BMS, Immunocore, 
+Novartis, Nektar, Philogen; contracted research: 4SC, BioNTech, BMS, 
+Genentech/Roche, Idera, Immunocore, Iovance, Nektar, Novartis, Philogen, Pierre 
+Fabre, Regeneron, Sanofi; honoraria: BMS, MSD, Novartis, Pierre Fabre, Roche, 
+Sanofi, Sun Pharma; research funding to institution: BMS, Sun Pharma. A.I. 
+discloses research funding to institution: Checkmate Pharmaceuticals, Dynavax, 
+GSK/Sarah Cannon, Immunocore, Merck, Neon Therapeutics/Sarah Cannon. L.H.-A. 
+discloses advisory/consulting: BMS, Castle Bioscience; research funding to 
+institution: BMS, AstraZeneca, Merck, Amgen, Roche, Regeneron, Novartis, 
+Immunocore, Merck-EMD, Corvus, Polynoma, Genentech, Foghorn. P.N. discloses 
+advisory/consulting: BMS, Immunocore, Ipsen, Incyte, MSD, Merck, Novartis, 
+Pfizer, 4SC; speaker’s bureau: BMS, Merck, Novartis, Pfizer; research funding to 
+institution: Immunocore, Novartis. O.H. discloses contracted research 
+(institute): Aduro, Akeso, Amgen, Bioatla, BMS, Genentech, GSK, Idera, 
+Immunocore, Incyte, Merck, NextCure, Novartis, Pfizer, Sanofi/Regeneron, SeaGen, 
+Zelluna; speaker’s bureau: BMS, Novartis, Pfizer, Sanofi/Regeneron; 
+consulting/advisory board: Aduro, Akeso, Amgen, Beigene, Bioatla, BMS, 
+Genentech, GSK, Idera, Immunocore, Incyte, Janssen, Merck, NextCure, Novartis, 
+Pfizer, Sanofi/Regeneron, SeaGen, Tempus, Zelluna. J.M.P. discloses research 
+funding: BeiGene, BMS, Immunocore, Mirati, MSD. M.R. discloses consulting: 
+Health Advances. D.B.J. discloses consultancy: BMS, Catalyst, Iovance, Janssen, 
+Mallinckrodt, Merck, Mosaic, Novartis, Oncosec, Pfizer, Targovax, Teiko; 
+non-remunerated activities: Melanoma Guideline Committee (NCCN), Scientific 
+Selection Committee (ASCO), Immunotherapy Toxicity Guidelines (SITC); research 
+funding to self: BMS, Incyte; research funding to institution: Array Biopharma, 
+Genentech, Immunocore, Nektar. J.J.L. discloses consulting: Abbvie, Bayer, BMS, 
+Castle, Checkmate, Codiak, Crown, Day One, Duke St, EMD Serono, Endeavor, Flame, 
+Genentech, Gilead, Glenmark, HotSpot, Kadmon, Janssen, Ikena, Immunocore, 
+Incyte, IO Biotech, Macrogenics, Merck, Nektar, Novartis, Partner, Pfizer, 
+Regeneron, Roivant, Servier, STINGthera, Synlogic, Synthekine; scientific 
+advisory board (no stock): 7 Hills, Bright Peak, Exo, Fstar, Inzen, RefleXion, 
+Xilio; scientific advisory board (stock): Actym, Alphamab Oncology, Arch 
+Oncology, Kanaph, Mavu, NeoTx, Onc.AI, OncoNano, Pyxis, STipe, Tempest; Data and 
+Safety Monitoring Board: Abbvie, Immutep, Evaxion; research funding to 
+institution: Abbvie, Astellas, AstraZeneca, BMS, Corvus, Day One, EMD Serono, 
+Fstar, Genmab, Ikena, Immatics, Incyte, Kadmon, KAHR, Macrogenics. Merck, 
+Moderna, Nektar, NextCure, Numab, Palleon, Pfizer, Replimmune, Rubius, Servier, 
+Scholar Rock, Synlogic, Takeda, Trishula, Tizona, Xencor; patents (provisional): 
+serial no. 15/612,657 (Cancer Immunotherapy), PCT/US18/36052 (Microbiome 
+Biomarkers for Anti-PD-1/PD-L1 Responsiveness: Diagnostic, Prognostic and 
+Therapeutic Uses Thereof). E.E. discloses consulting: BMS, MSD, Novartis, Pierre 
+Fabre; non-remunerated activities: Vice-President (Grupo Espanol Melanoma); 
+speaker bureau: BMS, MSD, Novartis, Pierre Fabre. S.L. discloses consulting: 
+Bayer, Immunocore; expenses: Bayer. L.C., H.M.G., K.R., C.H. and S.E.A. are 
+employees and have stocks/shares or stock options in Immunocore, which could 
+benefit from commercialization of these results. J.J.S. discloses 
+advisory/consulting: Immunocore, BMS, MSD, Delcath, Amgen; speaker’s bureau: 
+BMS, MSD, Pierre Fabre; research funding to institution: Immunocore, BMS, MSD, 
+Amgen, AstraZeneca, Replimune. T.S. discloses advisory/consulting: Immunocore, 
+Castle Biosciences; research funding to institution: Immunocore, Verastem.

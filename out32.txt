@@ -1,0 +1,21 @@
+cohere.Chat {
+	id: ea813e2c-1484-48fd-beb3-357e11820c94
+	response_id: ea813e2c-1484-48fd-beb3-357e11820c94
+	generation_id: 4622e6b2-1e18-4d92-9669-ba5d66b00af2
+	message: What company makes Tebentafusp?
+	text: Several sources state that Tebentafusp is made by Immunocore, based in Rockville, MD. However, one source indicates that the drug Kimmtrak, another name for Tebentafusp, is made by the Canadian Agency for Drugs and Technologies in Health.
+
+Would you like to know more about Tebentafusp?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7f832dcee230>
+	token_count: {'prompt_tokens': 1407, 'response_tokens': 69, 'total_tokens': 1476, 'billed_tokens': 77}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: [{'start': 50, 'end': 85, 'text': 'Immunocore, based in Rockville, MD.', 'document_ids': ['doc_15:1']}, {'start': 130, 'end': 138, 'text': 'Kimmtrak', 'document_ids': ['doc_4']}, {'start': 185, 'end': 238, 'text': 'Canadian Agency for Drugs and Technologies in Health.', 'document_ids': ['doc_4']}]
+	documents: [{'id': 'doc_15:1', 'snippet': " Curti); \nInstitut Català d'Oncologia and the Cancer Immunotherapy Group, OncoBell, \nInstitut d'Investigació Biomèdica de Bellvitge, Barcelona, and Centro de \nInvestigación Biomédica en Red de Cáncer, Madrid - all in Spain (J.M.P.); Duke \nUniversity, Durham, NC (A.K.S.S.); Memorial Sloan-Kettering Cancer Center and \nWeill Cornell Medical College, New York (A.N.S.), and Northwell Health Cancer \nInstitute, New Hyde Park (R.D.C.) - all in New York; N.N. Blokhin National \nMedical Research Center of Oncology, Moscow (L.D.); University of Iowa Hospitals \nand Clinics, Iowa City (M.M.); Jonsson Comprehensive Cancer Center, University \nof California (B. Chmielowski), and the Angeles Clinic and Research Institute, \nCedars-Sinai Affiliate (O.H.), Los Angeles, and California Pacific Medical \nCenter, San Francisco (K.B.K.); and Immunocore, Rockville, MD (K.R., C.H.).\n\nBACKGROUND: Tebentafusp, a T-cell receptor-bispecific molecule that targets \nglycoprotein 100 and CD3, is approved for adult patients who are positive for \nHLA-A*02:01 and have unresectable or metastatic uveal melanoma.", 'title': '37870955'}, {'id': 'doc_4', 'snippet': '1. Tebentafusp (Kimmtrak): CADTH Reimbursement Review [Internet].\n\nOttawa (ON): Canadian Agency for Drugs and Technologies in Health; 2023 Apr. \nReport No.: PC0290CL.\nCADTH Reimbursement Reviews and Recommendations.\n\nPMID: 37903202\n', 'title': '37903202'}]
+	search_results: None
+	search_queries: [{'text': 'What company makes Tebentafusp?', 'generation_id': 'a9445af5-4013-41ea-89b4-68464130c0c0'}]
+}

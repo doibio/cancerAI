@@ -1,0 +1,46 @@
+1. Expert Rev Anticancer Ther. 2022 Oct;22(10):1017-1027. doi: 
+10.1080/14737140.2022.2124971. Epub 2022 Sep 19.
+
+Tebentafusp for the treatment of HLA-A*02:01-positive adult patients with 
+unresectable or metastatic uveal melanoma.
+
+Chen LN(1), Carvajal RD(1).
+
+Author information:
+(1)Division of Medical Oncology, Department of Medicine, Columbia University 
+Medical Center, New York, USA.
+
+INTRODUCTION: Metastatic uveal melanoma is associated with poor prognosis and 
+few treatment options. Tebentafusp recently became the first FDA-approved agent 
+for metastatic uveal melanoma.
+AREAS COVERED: In this review, we describe the mechanism of action of 
+tebentafusp as well as preclinical data showing high tumor specificity of the 
+drug. We also review promising early-phase trials in which tebentafusp 
+demonstrated activity in metastatic uveal melanoma patients with an acceptable 
+toxicity profile that included cytokine-mediated, dermatologic-related, and 
+liver-related adverse events. Finally, we summarize findings from a pivotal 
+phase III randomized trial in which tebentafusp demonstrated significant 
+improvement in overall survival in comparison with investigator choice therapy.
+EXPERT OPINION: Tebentafusp has transformed the treatment paradigm for 
+metastatic uveal melanoma and should be the preferred frontline agent for most 
+HLA-A*0201 positive patients. However, patients with rapidly progressing disease 
+or high tumor benefit may not derive the same benefit. Areas of future study 
+should focus on its role in the adjuvant setting as well as strategies to 
+improve the efficacy of tebentafusp in the metastatic setting.
+
+DOI: 10.1080/14737140.2022.2124971
+PMCID: PMC10184536
+PMID: 36102132 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interest RD Carvajal has received 
+consultancy fees from; Alkermes, Bristol-Myers Squibb, Castle Biosciences, 
+Eisai, Ideaya, Immunocore, InxMed, Iovance, Merck, Novartis, Oncosec, Pierre 
+Fabre, PureTech Health, Regeneron, Sanofi Genzyme, Sorrento Therapeutics, 
+Trisalus. RD Carvajal has served omn the clinical and scientific advisory boards 
+of; Aura Biosciences, Chimeron, Rgenix and has received research funding to 
+Columbia University from; Amgen, Astellis, AstraZeneca, Bristol-Myers Squibb, 
+Corvus, Ideaya, Immunocore, Iovance, Merck, Mirati, Novartis, Pfizer, Plexxikon, 
+Regeneron and Roche/Genentech. The authors have no other relevant affiliations 
+or financial involvement with any organization or entity with a financial 
+interest in or financial conflict with the subject matter or materials discussed 
+in the manuscript apart from those disclosed.

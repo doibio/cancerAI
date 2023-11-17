@@ -1,0 +1,45 @@
+1. Drugs Today (Barc). 2023 Mar;59(3):179-193. doi:
+10.1358/dot.2023.59.3.3542417.
+
+Tebentafusp: a novel drug for the treatment of metastatic uveal melanoma.
+
+Wang Z(1)(2), Xie Y(1)(2), Wang JQ(2), Cheng Y(2)(3), Fleishman J(2), Chen 
+ZS(1)(4), Chen Y(5).
+
+Author information:
+(1)Institute for Biotechnology, St. John's University, New York City, New York, 
+USA.
+(2)Department of Pharmaceutical Sciences, College of Pharmacy and Health 
+Sciences, St. John's University, New York City, New York, USA.
+(3)Westover School, Middlebury, Connecticut, USA.
+(4)Department of Pharmaceutical Sciences, College of Pharmacy and Health 
+Sciences, St. John's University, New York City, New York, USA. 
+chenz@stjohns.edu.
+(5)Department of Science and Education, Affiliated Xiaoshan Hospital, Hangzhou 
+Normal University, Hangzhou, China. chenyun3212@163.com.
+
+On January 25, 2022, the U.S. Food and Drug Administration (FDA) approved the 
+use of tebentafusp, a bispecific glycoprotein 100 (gp100) peptide-human 
+leukocyte antigen (HLA)-directed CD3 T-cell activator, for the treatment of 
+HLA-A*02:01-positive adult patients with unresectable or metastatic uveal 
+melanoma (mUM). Pharmacodynamic data indicate that tebentafusp targets a 
+specific HLA-A*02:01/gp100 complex, activating both CD4+/CD8+ effector and 
+memory T cells that induce tumor cell death. Tebentafusp is administered to 
+patients via intravenous infusion daily or weekly, depending on the indication. 
+Phase III trials have documented a 1-year overall survival of 73%, overall 
+response rate of 9%, progression-free survival of 31% and disease control rate 
+of 46%. Common adverse events reported are cytokine release syndrome, rash, 
+pyrexia, pruritus, fatigue, nausea, chills, abdominal pain, edema, hypotension, 
+dry skin, headache and vomiting. Compared to other types of melanomas, mUM 
+presents with a distinct profile of genetic mutations, which phenotypically 
+results in limited survival efficacy when using traditional melanoma treatments. 
+The low current treatment efficacy for mUM, alongside a poor long-term prognosis 
+and high mortality rates, gives precedence for the approval of tebentafusp to be 
+groundbreaking in its clinical impact. This review will discuss the 
+pharmacodynamic and pharmacokinetic profile, and the clinical trials used to 
+evaluate the safety and efficacy of tebentafusp.
+
+Copyright 2023 Clarivate.
+
+DOI: 10.1358/dot.2023.59.3.3542417
+PMID: 36847626 [Indexed for MEDLINE]

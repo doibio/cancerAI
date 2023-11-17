@@ -1,0 +1,42 @@
+1. Melanoma Res. 2023 Dec 1;33(6):525-531. doi: 10.1097/CMR.0000000000000919.
+Epub  2023 Aug 25.
+
+Cost-effectiveness analysis of an orphan drug tebentafusp in patients with 
+metastatic uveal melanoma and a call for value-based pricing.
+
+Luo S(1)(2), Xie C(1)(2), Lin N(1)(2), Lin D(1)(2), Gu D(3), Lin S(1)(2), Huang 
+X(1)(2), Xu X(1)(2), Weng X(1)(2).
+
+Author information:
+(1)Department of Pharmacy, the First Affiliated Hospital of Fujian Medical 
+University.
+(2)Department of Pharmacy, National Regional Medical Center, Binhai Campus of 
+the First Affiliated Hospital of Fujian Medical University, Fuzhou, China.
+(3)Institute for Health & Aging, University of California, San Francisco, 
+California, USA.
+
+The normative regimens recommendations for treating metastatic uveal melanoma 
+(mUM) are absent in the US. Recently, a phase III randomized clinical trial 
+revealed that tebentafusp yielded a conspicuously longer overall survival than 
+the control group. Based on the prominent efficacy, this study aimed to assess 
+whether tebentafusp is cost-effective compared to the control group in patients 
+with untreated mUM. A three-state partitioned survival model was developed to 
+assess the costs, quality-adjusted life years (QALYs), and incremental 
+cost-effectiveness ratio (ICER) from the perspective of US payers. Scenario 
+analyses and sensitivity analyses were conducted to explore the conclusion 
+uncertainty. Compared with control group, tebentafusp therapy yielded an 
+additional 0.47 QALYs (1.19 vs. 0.72 QALYs) and an incremental cost of $444 280 
+($633 822 vs. $189 542). The resultant ICER of $953 230/QALY far outweighed the 
+willingness-to-pay threshold of $200 000/QALY. The ICER was always more than 
+$750 000/QALY in all the univariable and probabilistic sensitivity analyses. 
+Scenario analyses indicated that reducing the unit price of tebentafusp to 
+$33.768/µg was associated with a favorable result of tebentafusp being 
+cost-effective. For treatment-naive patients with mUM, the cost of tebentafusp 
+therapy was not worth the improvement in survival benefits at the current price 
+compared to the investigator's choice of therapy. The cost-effectiveness of 
+tebentafusp could be promoted using value-based pricing.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/CMR.0000000000000919
+PMID: 37650713 [Indexed for MEDLINE]

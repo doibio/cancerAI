@@ -1,0 +1,47 @@
+1. J Immunother Cancer. 2022 Nov;10(11):e005600. doi: 10.1136/jitc-2022-005600.
+
+Ensuring equity in the era of HLA-restricted cancer therapeutics.
+
+Smithy JW(1), Blouin A(2), Diamond LC(3)(4), Postow M(5)(4).
+
+Author information:
+(1)Medicine, Memorial Sloan Kettering Cancer Center, New York, New York, USA.
+(2)Pathology and Laboratory Medicine, Memorial Sloan Kettering Cancer Center, 
+New York, New York, USA.
+(3)Medicine, Psychiatry and Behavioral Sciences, Memorial Sloan Kettering Cancer 
+Center, New York, New York, USA.
+(4)Medicine, Weill Cornell Medical College, New York, New York, USA.
+(5)Medicine, Memorial Sloan Kettering Cancer Center, New York, New York, USA 
+postowm@mskcc.org.
+
+In January 2022, the US Food and Drug Administration granted regulatory approval 
+to tebentafusp, a bispecific T cell receptor protein that targets melanoma 
+antigen gp100 in the context of the human leucocyte antigen (HLA) A*0201 allele. 
+This approval generated significant excitement, given the relative paucity of 
+effective systemic therapies for advanced uveal melanoma. More broadly, 
+tebentafusp represents the first T cell receptor agent to improve overall 
+survival in any solid tumor.Although HLA-A*02:01 is the most common allele at 
+this locus overall, its expression varies considerably among ethnic groups. It 
+is most frequently expressed in Europeans, and less commonly in African 
+Americans and people of Asian or Pacific Island ancestry. While uveal melanoma 
+is most common in Caucasian populations, other HLA-restricted cancer 
+therapeutics are being developed for indications with more diverse patient 
+populations, such as cervical cancer.We advocate for proactive consideration of 
+the populations eligible for each HLA-restricted therapeutic in development to 
+ensure this emerging therapeutic class does not compound long-standing health 
+disparities. As trials may focus on the most prevalent HLA subtypes, it will 
+take the engagement of multiple stakeholders to ensure equitable access to 
+patients of all ethnic backgrounds.
+
+© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/jitc-2022-005600
+PMCID: PMC9710357
+PMID: 36442912 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: JWS, AB and LCD report no 
+conflicts of interest. MP reports consulting fees from BMS, Merck, Array 
+BioPharma, Novartis, Incyte, NewLink Genetics, Aduro, Eisai, Pfizer; honoraria 
+from BMS and Merck; institutional support from RGenix, Infinity, BMS, Merck, 
+Array BioPharma, Novartis, AstraZeneca Funding sources.

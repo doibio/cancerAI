@@ -1,0 +1,48 @@
+1. Cancers (Basel). 2019 Jul 24;11(8):1048. doi: 10.3390/cancers11081048.
+
+Immunotherapies for the Treatment of Uveal Melanoma-History and Future.
+
+Schank TE(1)(2), Hassel JC(3)(4).
+
+Author information:
+(1)Department of Dermatology, University Hospital Heidelberg, 69120 Heidelberg, 
+Germany. Timo.Schank@med.uni-heidelberg.de.
+(2)National Center for Tumor Diseases, University Hospital Heidelberg, 69120 
+Heidelberg, Germany. Timo.Schank@med.uni-heidelberg.de.
+(3)Department of Dermatology, University Hospital Heidelberg, 69120 Heidelberg, 
+Germany. Jessica.Hassel@med.uni-heidelberg.de.
+(4)National Center for Tumor Diseases, University Hospital Heidelberg, 69120 
+Heidelberg, Germany. Jessica.Hassel@med.uni-heidelberg.de.
+
+BACKGROUND: Uveal melanoma is the most common primary intraocular malignancy 
+among adults. It is, nevertheless, a rare disease, with an incidence of 
+approximately one case per 100,000 individuals per year in Europe. Approximately 
+half of tumors will eventually metastasize, and the liver is the organ usually 
+affected. No standard-of-care treatment exists for metastasized uveal melanoma. 
+Chemotherapies or liver-directed treatments do not usually result in long-term 
+tumor control. Immunotherapies are currently the most promising therapy option 
+available.
+METHODS: We reviewed both relevant recent literature on PubMed concerning the 
+treatment of uveal melanoma with immunotherapies, and currently investigated 
+drugs on ClinicalTrials.gov. Our own experiences with immune checkpoint blockers 
+are included in a case series of 20 patients.
+RESULTS: Because few clinical trials have been conducted for metastasized uveal 
+melanoma, no definitive treatment strategy exists for this rare disease. The 
+outcomes of most immunotherapies are poor, especially compared with cutaneous 
+melanoma. However, encouraging results have been found for some very recently 
+investigated agents such as the bispecific tebentafusp, for which a remarkably 
+increased one-year overall survival rate, and similarly increased disease 
+control rate, were observed in early phase studies.
+CONCLUSIONS: The treatment of metastatic uveal melanoma remains challenging, and 
+almost all patients still die from the disease. Long-term responses might be 
+achievable by means of new immunological strategies. Patients should therefore 
+be referred to large medical centers where they can take part in controlled 
+clinical studies.
+
+DOI: 10.3390/cancers11081048
+PMCID: PMC6721437
+PMID: 31344957
+
+Conflict of interest statement: JCH has had a paid consulting role with Merck 
+and Amgen, has received honoraria from Bristol-Myers Squibb, Merck, Novartis, 
+Roche and Pfizer and received research funding from BMS.

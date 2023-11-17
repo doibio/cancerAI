@@ -1,0 +1,21 @@
+cohere.Chat {
+	id: efe67ddf-2998-4c33-a472-4548e59ca5ce
+	response_id: efe67ddf-2998-4c33-a472-4548e59ca5ce
+	generation_id: 0a966b16-f67e-4488-a582-5caadeeef5d3
+	message: What other cancers can tebentafusp be used for?
+	text: Tebentafusp is currently under regulatory review for the treatment of metastatic uveal melanoma and cutaneous melanoma. It has recently become the first FDA-approved agent for metastatic uveal melanoma. 
+
+Would you like to know anything else about Tebentafusp?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7fcdc248a2c0>
+	token_count: {'prompt_tokens': 1460, 'response_tokens': 56, 'total_tokens': 1516, 'billed_tokens': 80}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: [{'start': 31, 'end': 48, 'text': 'regulatory review', 'document_ids': ['doc_58:1']}, {'start': 70, 'end': 95, 'text': 'metastatic uveal melanoma', 'document_ids': ['doc_16:0', 'doc_58:1']}, {'start': 100, 'end': 119, 'text': 'cutaneous melanoma.', 'document_ids': ['doc_58:1']}, {'start': 147, 'end': 171, 'text': 'first FDA-approved agent', 'document_ids': ['doc_16:0']}, {'start': 176, 'end': 202, 'text': 'metastatic uveal melanoma.', 'document_ids': ['doc_16:0']}]
+	documents: [{'id': 'doc_58:1', 'snippet': ' Tebentafusp is under regulatory review for the treatment of metastatic \nuveal melanoma in the UK, Australia and Canada. Clinical studies of tebentafusp \nare underway for uveal melanoma and cutaneous melanoma in several countries \nworldwide. This article summarizes the milestones in the development of \ntebentafusp leading to this first approval for unresectable or metastatic uveal \nmelanoma.\n\n© 2022. The Author(s), under exclusive licence to Springer Nature Switzerland \nAG.\n\nDOI: 10.1007/s40265-022-01704-4\nPMID: 35364798 [Indexed for MEDLINE]\n', 'title': '35364798'}, {'id': 'doc_16:0', 'snippet': '1. Expert Rev Anticancer Ther. 2022 Oct;22(10):1017-1027. doi: \n10.1080/14737140.2022.2124971. Epub 2022 Sep 19.\n\nTebentafusp for the treatment of HLA-A*02:01-positive adult patients with \nunresectable or metastatic uveal melanoma.\n\nChen LN(1), Carvajal RD(1).\n\nAuthor information:\n(1)Division of Medical Oncology, Department of Medicine, Columbia University \nMedical Center, New York, USA.\n\nINTRODUCTION: Metastatic uveal melanoma is associated with poor prognosis and \nfew treatment options. Tebentafusp recently became the first FDA-approved agent \nfor metastatic uveal melanoma.\nAREAS COVERED: In this review, we describe the mechanism of action of \ntebentafusp as well as preclinical data showing high tumor specificity of the \ndrug. We also review promising early-phase trials in which tebentafusp \ndemonstrated activity in metastatic uveal melanoma patients with an acceptable \ntoxicity profile that included cytokine-mediated, dermatologic-related, and \nliver-related adverse events.', 'title': '36102132'}]
+	search_results: None
+	search_queries: [{'text': 'tebentafusp cancer treatment', 'generation_id': '12dfe976-d68c-4744-ac2f-a99ec1058dff'}]
+}

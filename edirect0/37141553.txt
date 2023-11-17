@@ -1,0 +1,27 @@
+1. Am Soc Clin Oncol Educ Book. 2023 Jan;43:e397478. doi: 10.1200/EDBK_397478.
+
+Evolving Management of Stage IV Melanoma.
+
+Switzer B(1), Piperno-Neumann S(2), Lyon J(3), Buchbinder E(3), Puzanov I(1).
+
+Author information:
+(1)Department of Medicine, Roswell Park Comprehensive Cancer Center, Buffalo, 
+NY.
+(2)Department of Medical Oncology, Institute Curie, Paris, France.
+(3)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston, MA.
+
+Significant advancements have been made in the treatment of advanced melanoma 
+with the use of immune checkpoint inhibitors, novel immunotherapies, and 
+BRAF/MEK-targeted therapies with numerous frontline treatment options. However, 
+there remains suboptimal evidence to guide treatment decisions in many patients. 
+These include patients with newly diagnosed disease, immune checkpoint inhibitor 
+(ICI)-resistant/ICI-refractory disease, CNS metastases, history of autoimmune 
+disease, and/or immune-related adverse events (irAEs). Uveal melanoma (UM) is a 
+rare melanoma associated with a poor prognosis in the metastatic setting. 
+Systemic treatments, including checkpoint inhibitors, failed to demonstrate any 
+survival benefit. Tebentafusp, a bispecific molecule, is the first treatment to 
+improve overall survival (OS) in patients with HLA A*02:01-positive metastatic 
+UM.
+
+DOI: 10.1200/EDBK_397478
+PMID: 37141553 [Indexed for MEDLINE]

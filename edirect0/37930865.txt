@@ -1,0 +1,43 @@
+1. Clin Exp Immunol. 2023 Nov 1:uxad120. doi: 10.1093/cei/uxad120. Online ahead
+of  print.
+
+Tuning the potency and selectivity of ImmTAC molecules by affinity modulation.
+
+Robertson IB(1), Mulvaney R(1), Dieckmann N(1), Vantellini A(1), Canestraro 
+M(1), Amicarella F(1), O'Dwyer R(1), Cole DK(1), Harper S(1), Dushek O(2), Kirk 
+P(1).
+
+Author information:
+(1)Immunocore Limited, 92 Park Drive, Milton Park, Abingdon, Oxon, OX14 4RY, UK.
+(2)Sir William Dunn School of Pathology, University of Oxford, South Parks Road, 
+Oxford, OX1 3RE, UK.
+
+T cell engaging bispecifics have great clinical potential for the treatment of 
+cancer and infectious diseases. The binding affinity and kinetics of a 
+bispecific molecule for both target and T cell CD3 have substantial effects on 
+potency and specificity, but the rules governing these relationships are not 
+fully understood. Using ImmTAC (Immune mobilizing monoclonal TCRs Against 
+Cancer) molecules as a model, we explored the impact of altering affinity for 
+target and CD3 on the potency and specificity of the re-directed T cell 
+response. This class of bispecifics, exemplified by tebentafusp which has 
+recently shown survival benefit in a randomized phase 3 clinical trial1, bind 
+specific target peptides presented by human leukocyte antigen (HLA) on the cell 
+surface via an affinity-enhanced T cell receptor and can redirect T cell 
+activation with an anti-CD3 effector moiety. The data reveal that combining a 
+strong affinity TCR with an intermediate affinity anti-CD3 results in optimal T 
+cell activation, while strong affinity of both targeting and effector domains 
+significantly reduces maximum cytokine release. Moreover, by optimising the 
+affinity of both parts of the molecule, it is possible to improve the 
+selectivity. These results could be effectively modelled based on kinetic 
+proof-reading with limited signalling. This model explained the experimental 
+observation that strong binding at both ends of the molecules leads to reduced 
+activity, through very stable target-bispecific-effector complexes leading to 
+CD3 entering a non-signalling dark-state. These findings have important 
+implications for the design of anti-CD3 based bispecifics with optimal 
+biophysical parameters for both activity and specificity.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of the 
+British Society for Immunology.
+
+DOI: 10.1093/cei/uxad120
+PMID: 37930865

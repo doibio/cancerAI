@@ -1,0 +1,19 @@
+cohere.Chat {
+	id: 5d179bf4-6fed-4ca9-97d3-54ee9d6ee1cb
+	response_id: 5d179bf4-6fed-4ca9-97d3-54ee9d6ee1cb
+	generation_id: 37d77be2-e831-4a3d-a2a5-18d0ef8b0fb0
+	message: What company created Tebentafusp?
+	text: Several sources state that Tebentafusp was created by Immunocore, which is based in Rockville, MD. However, one source indicates that the drug Kimmtrak, which is the same drug as Tebentafusp, was reviewed by the Canadian Agency for Drugs and Technologies in Health (CADTH) in 2023. It is not clear who the manufacturer of Kimmtrak is, so it cannot be confirmed who created Tebentafusp. Would you like to know more about Immunocore?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7f909328a1d0>
+	token_count: {'prompt_tokens': 1406, 'response_tokens': 102, 'total_tokens': 1508, 'billed_tokens': 110}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: [{'start': 54, 'end': 64, 'text': 'Immunocore', 'document_ids': ['doc_15:1']}, {'start': 84, 'end': 98, 'text': 'Rockville, MD.', 'document_ids': ['doc_15:1']}, {'start': 138, 'end': 151, 'text': 'drug Kimmtrak', 'document_ids': ['doc_4']}, {'start': 166, 'end': 190, 'text': 'same drug as Tebentafusp', 'document_ids': ['doc_4']}, {'start': 196, 'end': 272, 'text': 'reviewed by the Canadian Agency for Drugs and Technologies in Health (CADTH)', 'document_ids': ['doc_4']}, {'start': 276, 'end': 281, 'text': '2023.', 'document_ids': ['doc_4']}]
+	documents: [{'id': 'doc_15:1', 'snippet': " Curti); \nInstitut Català d'Oncologia and the Cancer Immunotherapy Group, OncoBell, \nInstitut d'Investigació Biomèdica de Bellvitge, Barcelona, and Centro de \nInvestigación Biomédica en Red de Cáncer, Madrid - all in Spain (J.M.P.); Duke \nUniversity, Durham, NC (A.K.S.S.); Memorial Sloan-Kettering Cancer Center and \nWeill Cornell Medical College, New York (A.N.S.), and Northwell Health Cancer \nInstitute, New Hyde Park (R.D.C.) - all in New York; N.N. Blokhin National \nMedical Research Center of Oncology, Moscow (L.D.); University of Iowa Hospitals \nand Clinics, Iowa City (M.M.); Jonsson Comprehensive Cancer Center, University \nof California (B. Chmielowski), and the Angeles Clinic and Research Institute, \nCedars-Sinai Affiliate (O.H.), Los Angeles, and California Pacific Medical \nCenter, San Francisco (K.B.K.); and Immunocore, Rockville, MD (K.R., C.H.).\n\nBACKGROUND: Tebentafusp, a T-cell receptor-bispecific molecule that targets \nglycoprotein 100 and CD3, is approved for adult patients who are positive for \nHLA-A*02:01 and have unresectable or metastatic uveal melanoma.", 'title': '37870955'}, {'id': 'doc_4', 'snippet': '1. Tebentafusp (Kimmtrak): CADTH Reimbursement Review [Internet].\n\nOttawa (ON): Canadian Agency for Drugs and Technologies in Health; 2023 Apr. \nReport No.: PC0290CL.\nCADTH Reimbursement Reviews and Recommendations.\n\nPMID: 37903202\n', 'title': '37903202'}]
+	search_results: None
+	search_queries: [{'text': 'What company created Tebentafusp?', 'generation_id': '5c5fc8cf-698a-4f8a-9a2c-0d0f314e51b2'}]
+}

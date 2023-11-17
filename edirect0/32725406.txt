@@ -1,0 +1,30 @@
+1. Curr Oncol Rep. 2020 Jul 28;22(10):104. doi: 10.1007/s11912-020-00965-0.
+
+Novel Approaches to the Systemic Management of Uveal Melanoma.
+
+Khan S(1), Carvajal RD(2)(3).
+
+Author information:
+(1)Department of Hematology and Oncology, Columbia University Irving Medical 
+Center, 177 Ft. Washington Avenue, MHB 6GN-435, New York, NY, 10032, USA. 
+sk4488@cumc.columbia.edu.
+(2)Department of Hematology and Oncology, Columbia University Irving Medical 
+Center, 177 Ft. Washington Avenue, MHB 6GN-435, New York, NY, 10032, USA.
+(3)Herbert Irving Comprehensive Cancer Center, New York, NY, USA.
+
+PURPOSE OF REVIEW: Uveal melanoma is a distinct subtype of melanoma 
+characterized by a unique biology and divergent response to immune therapies. In 
+this review, we will discuss our current understanding of the pathophysiology of 
+uveal melanoma, systemic treatment options for advanced disease, and potential 
+future therapeutic directions.
+RECENT FINDINGS: Although treatment with single-agent checkpoint blockade has 
+been generally disappointing, the results of combined checkpoint blockade are 
+modestly more promising. Several alternative systemic therapeutic approaches 
+have been or are currently being investigated, including two agents that have 
+been taken into registration-intent clinical trials: tebentafusp, a T cell 
+redirecting agent, and IDE196, an oral protein kinase C inhibitor. Treatment of 
+advanced uveal melanoma remains challenging, however, encouraging results from 
+novel agents offer hope for improvement in the near future.
+
+DOI: 10.1007/s11912-020-00965-0
+PMID: 32725406 [Indexed for MEDLINE]

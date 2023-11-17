@@ -1,0 +1,37 @@
+1. Curr Opin Ophthalmol. 2022 Nov 1;33(6):585-590. doi: 
+10.1097/ICU.0000000000000905. Epub 2022 Sep 8.
+
+Treatment of metastatic uveal melanoma in 2022: improved treatment regimens and 
+improved prognosis.
+
+Reichstein D(1), Brock A(1), Lietman C(2), McKean M(2).
+
+Author information:
+(1)Tennessee Retina, PC.
+(2)Sarah Cannon Cancer Research Institute, Nashville, Tennessee, USA.
+
+PURPOSE OF REVIEW: Until recently, metastatic uveal melanoma was associated with 
+essentially uniform fatality within months. However, recent developments in 
+screening, improved understanding of the genetic underpinnings of metastatic 
+disease, and pivotal medication approvals have improved the disease's rate of 
+fatality.
+RECENT FINDINGS: Routine implementation of genetic testing at the time of 
+primary tumor treatment via gene expression profiling or chromosomal analysis 
+has identified patients who are at high risk for metastatic disease. Enhanced 
+screening with imaging directed at the liver and lungs has allowed for 
+identification of early disease and lower tumor burden. Significant work on 
+improved liver directed therapy along with systemic chemotherapy and 
+immunotherapy has improved life expectancy. The first systemic immunotherapy 
+specifically for metastatic uveal melanoma was approved this year. This 
+medication, tebentafusp, is likely to improve life expectancy for all patients 
+with metastatic melanoma assuming they have appropriate human leukocyte antigen 
+(HLA) markers. Multiple clinical trials with novel immunotherapeutic agents are 
+promising as well.
+SUMMARY: The prognosis for patients with uveal melanoma is far better than ever 
+before because of recent developments in the understanding and treatment of 
+metastatic disease.
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/ICU.0000000000000905
+PMID: 36094043 [Indexed for MEDLINE]

@@ -1,0 +1,77 @@
+1. J Immunother Cancer. 2023 Jun;11(6):e006747. doi: 10.1136/jitc-2023-006747.
+
+Tebentafusp in combination with durvalumab and/or tremelimumab in patients with 
+metastatic cutaneous melanoma: a phase 1 study.
+
+Hamid O(1), Hassel JC(2), Shoushtari AN(3)(4), Meier F(5)(6), Bauer TM(7), 
+Salama AKS(8), Kirkwood JM(9), Ascierto PA(10), Lorigan PC(11), Mauch C(12), 
+Orloff M(13), Evans TRJ(14), Holland C(15), Edukulla R(15), Abedin SE(15), 
+Middleton MR(16).
+
+Author information:
+(1)The Angeles Clinic and Research Institute, a Cedars-Sinai Affiliate, Los 
+Angeles, California, USA ohamid@theangelesclinic.org 
+mark.middleton@oncology.ox.ac.uk.
+(2)University Hospital Heidelberg, Heidelberg, Germany.
+(3)Memorial Sloan Kettering Cancer Center, New York, New York, USA.
+(4)Weill Cornell Medical College, New York, New York, USA.
+(5)Skin Cancer Center at the National Center for Tumor Diseases and University 
+Cancer Centre, Dresden, Germany.
+(6)Department of Dermatology, University Hospital Carl Gustav Carus, Dresden, 
+Germany.
+(7)Tennessee Oncology, Nashville, Tennessee, USA.
+(8)Duke University, Durham, North Carolina, USA.
+(9)University of Pittsburgh Medical Center Cancer Center, Pittsburgh, 
+Pennsylvania, USA.
+(10)Istituto Nazionale Tumori IRCCS Fondazione Pascale, Napoli, Italy.
+(11)The Christie NHS Foundation Trust, Manchester, UK.
+(12)University Hospital Cologne, Cologne, Germany.
+(13)Sidney Kimmel Cancer Center, Jefferson University, Philadelphia, 
+Pennsylvania, USA.
+(14)Beatson West of Scotland Cancer Centre, University of Glasgow, Glasgow, UK.
+(15)Immunocore LLC, Rockville, Maryland, USA.
+(16)Department of Oncology, Medical Sciences Division, University of Oxford, 
+Oxford, UK ohamid@theangelesclinic.org mark.middleton@oncology.ox.ac.uk.
+
+BACKGROUND: Immune checkpoint inhibitors have significantly improved outcomes in 
+first line cutaneous melanoma. However, there is a high unmet need for patients 
+who progress on these therapies and combination therapies are being explored to 
+improve outcomes. Tebentafusp is a first-in-class gp100×CD3 ImmTAC bispecific 
+that demonstrated overall survival (OS) benefit (HR 0.51) in metastatic uveal 
+melanoma despite a modest overall response rate of 9%. This phase 1b trial 
+evaluated the safety and initial efficacy of tebentafusp in combination with 
+durvalumab (anti-programmed death ligand 1 (PDL1)) and/or tremelimumab 
+(anti-cytotoxic T lymphocyte-associated antigen 4) in patients with metastatic 
+cutaneous melanoma (mCM), the majority of whom progressed on prior checkpoint 
+inhibitors.
+METHODS: In this open-label, multicenter, phase 1b, dose-escalation trial, 
+HLA-A*02:01-positive patients with mCM received weekly intravenous tebentafusp 
+with increasing monthly doses of durvalumab and/or tremelimumab starting day 15 
+of each cycle. The primary objective was to identify the maximum tolerated dose 
+(MTD) or recommended phase 2 dose for each combination. Efficacy analyses were 
+performed in all tebentafusp with durvalumab±tremelimumab treated patients with 
+a sensitivity analysis in those who progressed on prior anti-PD(L)1 therapy.
+RESULTS: 85 patients were assigned to receive tebentafusp in combination with 
+durvalumab (n=43), tremelimumab (n=13), or durvalumab and tremelimumab (n=29). 
+Patients were heavily pretreated with a median of 3 prior lines of therapy, 
+including 76 (89%) who received prior anti-PD(L)1. Maximum target doses of 
+tebentafusp (68 mcg) alone or in combination with durvalumab (20 mg/kg) and 
+tremelimumab (1 mg/kg) were tolerated; MTD was not formally identified for any 
+arm. Adverse event profile was consistent with each individual therapy and there 
+were no new safety signals nor treatment-related deaths. In the efficacy subset 
+(n=72), the response rate was 14%, tumor shrinkage rate was 41% and 1-year OS 
+rate was 76% (95% CI: 70% to 81%). The 1-year OS for triplet combination (79%; 
+95% CI: 71% to 86%) was similar to tebentafusp plus durvalumab (74%; 95% CI: 67% 
+to 80%).
+CONCLUSION: At maximum target doses, the safety of tebentafusp with checkpoint 
+inhibitors was consistent with safety of each individual therapy. Tebentafusp 
+with durvalumab demonstrated promising efficacy in heavily pretreated patients 
+with mCM, including those who progressed on prior anti-PD(L)1.
+TRIAL REGISTRATION NUMBER: NCT02535078.
+
+© Author(s) (or their employer(s)) 2023. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/jitc-2023-006747
+PMCID: PMC10254987
+PMID: 37286303 [Indexed for MEDLINE]

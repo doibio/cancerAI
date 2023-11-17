@@ -1,0 +1,47 @@
+1. MAbs. 2022 Jan-Dec;14(1):2014296. doi: 10.1080/19420862.2021.2014296.
+
+Antibodies to watch in 2022.
+
+Kaplon H(1), Chenoweth A(2), Crescioli S(2), Reichert JM(3).
+
+Author information:
+(1)Translational Medicine Department, Institut de Recherches Internationales 
+Servier, Suresnes, France.
+(2)St. John's Institute of Dermatology, School of Basic & Medical Biosciences, 
+King's College London, London, UK.
+(3)The Antibody Society, Inc, Framingham, MA, USA.
+
+In this 13th annual installment of the annual 'Antibodies to Watch' article 
+series, we discuss key events in commercial antibody therapeutics development 
+that occurred in 2021 and forecast events that might occur in 2022. Regulatory 
+review of antibody therapeutics that target the SARS-CoV-2 coronavirus proceeded 
+at an unprecedented pace in 2021, resulting in both emergency use authorizations 
+and full approvals for sotrovimab, regdanvimab, REGEN-COV2, as well as others, 
+in numerous countries. As of November 1, a total of 11 antibody therapeutics had 
+been granted first approvals in either the United States or European Union in 
+2021 (evinacumab, dostarlimab loncastuximab tesirine, amivantamab, aducanumab, 
+tralokinumab, anifrolumab, bimekizumab, tisotumab vedotin, regdanvimab, 
+REGEN-COV2). The first global approvals of seven products, however, were granted 
+elsewhere, including Japan (pabinafusp alfa), China (disitamab vedotin, 
+penpulimab, zimberelimab), Australia (sotrovimab, REGEN-COV2), or the Republic 
+of Korea (regdanvimab). Globally, at least 27 novel antibody therapeutics are 
+undergoing review by regulatory agencies. First actions by the Food and Drug 
+Administration on the biologics license applications for faricimab, sutimlimab, 
+tebentafusp, relatlimab, sintilimab, ublituximab and tezepelumab are expected in 
+the first quarter of 2022. Finally, our data show that, with antibodies for 
+COVID-19 excluded, the late-stage commercial clinical pipeline of antibody 
+therapeutics grew by over 30% in the past year. Of those in late-stage 
+development, marketing applications for at least 22 may occur by the end of 
+2022.
+
+DOI: 10.1080/19420862.2021.2014296
+PMCID: PMC8765076
+PMID: 35030985 [Indexed for MEDLINE]
+
+Conflict of interest statement: HK is employed by a company that develops 
+antibody therapeutics. JMR is employed by The Antibody Society, a non-profit 
+trade association funded by corporate sponsors that develop antibody 
+therapeutics or provide services to companies that develop antibody 
+therapeutics, and she is Editor-in-Chief of mAbs, a biomedical journal focused 
+on topics relevant to antibody therapeutics development. Data in this 
+publication were collected from publicly available sources.

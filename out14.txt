@@ -1,0 +1,29 @@
+cohere.Chat {
+	id: 4019955d-f4ca-490c-8220-4b2ab4381145
+	response_id: 4019955d-f4ca-490c-8220-4b2ab4381145
+	generation_id: 1f746d50-022b-44da-a49b-86d3312c27f4
+	message: How to cure cancer?
+	text: I'm afraid I can't provide a straight answer to your question, because there are many different types of cancer, and there is no single cure for all of them. 
+
+There are various treatments for different types of cancer, including surgery, chemotherapy, and radiotherapy, and recent advances in medicine and technology have led to developments in treatments such as targeted therapy, immunotherapy and proton therapy. 
+
+The choice of treatment depends on various factors such as the type and stage of the cancer, potential side effects, and the patient's general health. 
+
+It is recommended that anyone who suspects they may have cancer seeks medical attention immediately, starting with a visit to their family doctor. Did you have a specific type of cancer in mind when you asked this question?
+
+Sorry, I cannot provide any medical advice. You should consult a medical professional to get more information. 
+
+Would you like me to help you with anything else?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7ff5fb7de1d0>
+	token_count: {'prompt_tokens': 564, 'response_tokens': 188, 'total_tokens': 752, 'billed_tokens': 193}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: None
+	documents: None
+	search_results: None
+	search_queries: [{'text': 'how to cure cancer?', 'generation_id': '2250d287-63d3-435f-b217-c4c94a307ce8'}]
+}

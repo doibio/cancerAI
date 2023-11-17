@@ -1,0 +1,24 @@
+cohere.Chat {
+	id: a1a850c7-183d-4b58-b970-f608300356a6
+	response_id: a1a850c7-183d-4b58-b970-f608300356a6
+	generation_id: 2f445a1e-af20-47d3-9a70-2551e20cb46d
+	message: Summarize these documents
+	text: Here are the key pieces of information I extracted from the provided documents: 
+
+- Recent studies on the use of immunotherapies for advanced hepatocellular carcinoma (HCC) have shown its effectiveness. However, many patients fail to respond to immunotherapy, indicating a need to increase T-cell activation and tumour reactivity.
+- A study on the use of proteasome inhibitors for the treatment of multiple myeloma found that the currently available inhibitors appear to target both the immunoproteasome and the constitutive proteasome, resulting in side effects. 
+
+Would you like me to provide more details on any of the information above?
+	conversation_id: None
+	prompt: None
+	chat_history: None
+	preamble: None
+	client: <cohere.client.Client object at 0x7fb95c27a1a0>
+	token_count: {'prompt_tokens': 3403, 'response_tokens': 130, 'total_tokens': 3533, 'billed_tokens': 135}
+	meta: {'api_version': {'version': '1'}}
+	is_search_required: None
+	citations: [{'start': 113, 'end': 172, 'text': 'immunotherapies for advanced hepatocellular carcinoma (HCC)', 'document_ids': ['doc_41:1']}, {'start': 188, 'end': 202, 'text': 'effectiveness.', 'document_ids': ['doc_41:1']}, {'start': 217, 'end': 258, 'text': 'patients fail to respond to immunotherapy', 'document_ids': ['doc_41:1']}, {'start': 281, 'end': 307, 'text': 'increase T-cell activation', 'document_ids': ['doc_41:1']}, {'start': 312, 'end': 330, 'text': 'tumour reactivity.', 'document_ids': ['doc_41:1']}, {'start': 355, 'end': 414, 'text': 'proteasome inhibitors for the treatment of multiple myeloma', 'document_ids': ['doc_97:1']}, {'start': 430, 'end': 460, 'text': 'currently available inhibitors', 'document_ids': ['doc_97:1']}, {'start': 471, 'end': 535, 'text': 'target both the immunoproteasome and the constitutive proteasome', 'document_ids': ['doc_97:1']}, {'start': 550, 'end': 563, 'text': 'side effects.', 'document_ids': ['doc_97:1']}]
+	documents: [{'id': 'doc_41:1', 'snippet': ' m.maini@ucl.ac.uk.\n\nImmunotherapy is now the standard of care for advanced hepatocellular carcinoma \n(HCC), yet many patients fail to respond. A major unmet goal is the boosting of \nT-cells with both strong HCC reactivity and the protective advantages of \ntissue-resident memory T-cells (TRM). Here, we show that higher intratumoural \nfrequencies of γδ T-cells, which have potential for HLA-unrestricted tumour \nreactivity, associate with enhanced HCC patient survival. We demonstrate that γδ \nT-cells exhibit bona fide tissue-residency in human liver and HCC, with γδTRM \nshowing no egress from hepatic vasculature, persistence for >10\u2009years and \nsuperior anti-tumour cytokine production. The Vγ9Vδ2 T-cell subset is \nselectively depleted in HCC but can efficiently target HCC cell lines sensitised \nto accumulate isopentenyl-pyrophosphate by the aminobisphosphonate Zoledronic \nacid.', 'title': '35296658'}, {'id': 'doc_97:1', 'snippet': ' At present the \ncommercially available proteasome inhibitors Bortezomib and Carfilzomib, which \nhave been validated in multiple myeloma and other diseases, appear to target \nboth the constitutive and immunoproteasomes indiscriminately. This lack of \nspecificity may, in part, explain some of the side effects of these agents. In \ncontrast, by selectively targeting the immunoproteasome, it may be possible to \nkeep the antimyeloma and antilymphoma efficacy unchanged and, at the same time, \nto increase the therapeutic index. The aim of this review article is to discuss \nthe most promising immunoproteasome core particle-selective inhibitors which \nhave been developed in the recent years, with a particular attention to their \nstructural features, mechanism of action and therapeutic application.', 'title': '26965184'}]
+	search_results: None
+	search_queries: None
+}

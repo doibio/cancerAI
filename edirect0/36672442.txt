@@ -1,0 +1,47 @@
+1. Cancers (Basel). 2023 Jan 13;15(2):493. doi: 10.3390/cancers15020493.
+
+Hepatic Radiotherapy in Addition to Anti-PD-1 for the Treatment of Metastatic 
+Uveal Melanoma Patients.
+
+Rossi E(1), Cellini F(2)(3), Pagliara MM(4), Sammarco MG(4), Pedone RR(1), 
+Lancellotta V(2), Tagliaferri L(2), Quirino M(1), Gambacorta MA(2)(3), Blasi 
+MA(4), Tortora G(1)(5), Schinzari G(1)(5).
+
+Author information:
+(1)Medical Oncology, Fondazione Policlinico Universitario Agostino Gemelli 
+IRCCS, 00168 Rome, Italy.
+(2)Radioterapia Oncologica ed Ematologia, Dipartimento di Diagnostica per 
+Immagini, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, 00168 
+Rome, Italy.
+(3)Radioterapia Oncologica ed Ematologia, Dipartimento Universitario Diagnostica 
+per Immagini, Università Cattolica del Sacro Cuore, 00168 Rome, Italy.
+(4)Ophtalmology, Fondazione Policlinico Universitario Agostino Gemelli IRCCS, 
+00168 Rome, Italy.
+(5)Medical Oncology, Università Cattolica del Sacro Cuore, 00168 Rome, Italy.
+
+Uveal melanoma is the most common ocular tumor with frequent metastatic spread 
+to the liver. Immune checkpoint inhibitors have demonstrated poor results in 
+this disease. The addition of hepatic radiotherapy to anti-PD-1 could enhance 
+the sensitivity to immunotherapy. In this study, patients treated with 
+pembrolizumab and who have undergone hepatic radiotherapy have been 
+retrospectively evaluated. Twenty-two patients have been considered. Six 
+patients (27.3%) achieved a partial response and 3 (13.6%) a stable disease. 
+Disease control rate was 40.9%. Thirteen patients (59.1%) had progression as 
+best response. The median PFS was 4.8 months and 6 months PFS rate 45.4%. The 
+median OS was 21.2 months, while 1 year OS rate was 72.7%. Longer survival was 
+observed in patients who achieved a partial response on irradiated metastases 
+(HR 0.23, 95% CI 0.06-0.83) or progressed after 6 months (HR 0.12-95% CI 
+0.03-0.44). No radiotherapy-related or grade 3-4 adverse events were reported. 
+This study demonstrates that the addition of hepatic radiotherapy to anti-PD-1 
+treatment can be a valid option for the treatment of metastatic uveal melanoma, 
+particularly for HLA A 02:01 negative patients. Prospective studies should be 
+conducted to confirm these data.
+
+DOI: 10.3390/cancers15020493
+PMCID: PMC9857311
+PMID: 36672442
+
+Conflict of interest statement: The authors declare that they have no competing 
+interest. E.R. had a role as consultant for MSD, Novartis, Pierre Fabre, 
+Immunocore, Pfizer. G.T. had a role as consultant for BMS, MSD, Astra Zeneca, 
+Servier, Merck Serono, Dompé. G.S. had a role as consultant for BMS.

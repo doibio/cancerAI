@@ -1,0 +1,50 @@
+1. Immunotherapy. 2023 Nov;15(16):1363-1368. doi: 10.2217/imt-2023-0093. Epub
+2023  Sep 4.
+
+Tumor lysis syndrome induced by tebentafusp.
+
+Ruf T(1), Leonhardt A(1), Anz D(2), Kunz WG(3), Röhrle N(2), Foerster P(4), 
+Tomsitz D(1), French LE(1)(5), Seegräber M(1), Heinzerling L(1).
+
+Author information:
+(1)Department of Dermatology & Allergy, University Hospital, LMU Munich, Munich, 
+80337, Germany.
+(2)Department of Internal Medicine, University Hospital, LMU Munich, Munich, 
+80336, Germany.
+(3)Department of Radiology, University Hospital, LMU Munich, Munich, 80336, 
+Germany.
+(4)Department of Ophthalmology, University Hospital, LMU Munich, Munich, 80336, 
+Germany.
+(5)Dr. Philip Frost Department of Dermatology & Cutaneous Surgery, University of 
+Miami Miller School of Medicine, Miami, FL 33125, USA.
+
+Tebentafusp, a bispecific T-cell receptor fusion protein directed against gp100 
+and CD3, can improve survival in patients with metastatic uveal melanoma and was 
+recently approved for the treatment of HLA-A*02:01-positive uveal melanoma 
+patients. Since tebentafusp often induces cytokine-release syndrome, doses must 
+be escalated and patients monitored as inpatients after the first infusions. The 
+occurrence of tumor lysis syndrome, a potentially life-threatening condition, 
+after administration of a single dose of tebentafusp, is reported here. With 
+adequate therapy, including the application of rasburicase, the patient made a 
+full recovery. It is important to raise awareness of the adverse event profile 
+of this new therapeutic approach among healthcare professionals to promptly 
+recognize and treat side effects.
+
+Plain Language Summary: Tebentafusp is a new treatment for a type of eye cancer 
+called uveal melanoma. It helps the body's defense system fight against cancer 
+cells and has shown promise in helping patients live longer. However, not all 
+patients with uveal melanoma can use this treatment. Only those who have a 
+specific gene marker called HLA-A*02:01-positive can benefit from it. Like any 
+new treatment, tebentafusp may have some side effects. One of them is called 
+cytokine-release syndrome, which can cause symptoms like rash, fever and 
+flu-like feelings. Usually, this side effect is not serious and can be treated 
+well. There was a rare but serious case where one patient had a bad reaction 
+after getting only one dose of tebentafusp. This reaction is called tumor lysis 
+syndrome, which happens when cancer cells break down quickly and release harmful 
+substances into the blood. This can be life-threatening. Thankfully, the patient 
+received the right treatment and got better. This information is shared 
+here with doctors and patients, so they know about possible side effects and can 
+use tebentafusp safely.
+
+DOI: 10.2217/imt-2023-0093
+PMID: 37661909 [Indexed for MEDLINE]

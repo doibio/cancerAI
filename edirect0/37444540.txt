@@ -1,0 +1,102 @@
+1. Cancers (Basel). 2023 Jun 30;15(13):3430. doi: 10.3390/cancers15133430.
+
+Tebentafusp in Patients with Metastatic Uveal Melanoma: A Real-Life 
+Retrospective Multicenter Study.
+
+Tomsitz D(1), Ruf T(1), Heppt M(2)(3)(4), Staeger R(5), Ramelyte E(5), Dummer 
+R(5), Garzarolli M(6)(7), Meier F(6)(7), Meier E(8), Richly H(8), Gromke T(8), 
+Siveke JT(8)(9)(10), Franklin C(11)(12), Klespe KC(11)(13), Mauch C(11)(12), 
+Kilian T(14), Seegräber M(1), Schilling B(14), French LE(1)(15), Berking 
+C(2)(3)(4), Heinzerling L(1).
+
+Author information:
+(1)Department of Dermatology and Allergy, University Hospital, Ludwig Maximilian 
+University (LMU) Munich, 80337 Munich, Germany.
+(2)Department of Dermatology, Uniklinikum Erlangen, 
+Friedrich-Alexander-University Erlangen-Nürnberg (FAU), 91054 Erlangen, Germany.
+(3)Comprehensive Cancer Center Erlangen-European Metropolitan Area of Nuremberg 
+(CCC ER-EMN), 91054 Erlangen, Germany.
+(4)Deutsches Zentrum für Immuntherapie (DZI), Friedrich-Alexander-University 
+Erlangen-Nürnberg (FAU), 91054 Erlangen, Germany.
+(5)Department of Dermatology, University Hospital Zurich, 8091 Zurich, 
+Switzerland.
+(6)Department of Dermatology, Faculty of Medicine and University Hospital Carl 
+Gustav Carus, Technische Universität Dresden, 01307 Dresden, Germany.
+(7)Skin Cancer Center at the University Cancer Centre Dresden and National 
+Center for Tumor Diseases, 01309 Dresden, Germany.
+(8)Department of Medical Oncology, West German Cancer Center, University 
+Hospital Essen, 45147 Essen, Germany.
+(9)Division of Solid Tumor Translational Oncology, German Cancer Research Center 
+(DKFZ) and German Cancer Consortium (DKTK), Partner Site Essen, 69120 
+Heidelberg, Germany.
+(10)Bridge Institute of Experimental Tumor Therapy, West German Cancer Center, 
+University Hospital Essen, University of Duisburg-Essen, 45147 Essen, Germany.
+(11)Department of Dermatology and Venereology, Faculty of Medicine and 
+University Hospital Cologne, University of Cologne, 50937 Cologne, Germany.
+(12)Center for Integrated Oncology Aachen-Bonn-Cologne-Düsseldorf (CIO ABCD), 
+50937 Cologne, Germany.
+(13)Department of Dermatology, Allergology and Venereology, Hannover Medical 
+School, 30625 Hannover, Germany.
+(14)Department of Dermatology, University Hospital Würzburg, 97080 Würzburg, 
+Germany.
+(15)Dr. Philip Frost Department of Dermatology and Cutaneous Surgery, University 
+of Miami Miller School of Medicine, Miami, FL 33136, USA.
+
+BACKGROUND: Tebentafusp has recently been approved for the treatment of 
+metastatic uveal melanoma (mUM) after proving to have survival benefits in a 
+first-line setting.
+PATIENTS AND METHODS: This retrospective, multicenter study analyzed the 
+outcomes and safety of tebentafusp therapy in 78 patients with mUM.
+RESULTS: Patients treated with tebentafusp had a median PFS of 3 months (95% CI 
+2.7 to 3.3) and a median OS of 22 months (95% CI 10.6 to 33.4). In contrast to a 
+published Phase 3 study, our cohort had a higher rate of patients with elevated 
+LDH (65.4% vs. 35.7%) and included patients with prior systemic and local 
+ablative therapies. In patients treated with tebentafusp following ICI, there 
+was a trend for a longer median OS (28 months, 95% CI 26.9 to 29.1) compared to 
+the inverse treatment sequence (24 months, 95% CI 13.0 to 35.0, p = 0.257). The 
+most common treatment-related adverse events were cytokine release syndrome in 
+71.2% and skin toxicity in 53.8% of patients. Tumor lysis syndrome occurred in 
+one patient.
+CONCLUSIONS: Data from this real-life cohort showed a median PFS/OS similar to 
+published Phase 3 trial data. Treatment with ICI followed by tebentafusp may 
+result in longer PFS/OS compared to the inverse treatment sequence.
+
+DOI: 10.3390/cancers15133430
+PMCID: PMC10341126
+PMID: 37444540
+
+Conflict of interest statement: Dirk Tomsitz reports consultancy, speaker fees 
+or travel grants: BMS, Roche, Novartis, Sanofi, Recordati, Kyowa Kirin, Sun 
+Pharma and Pierre Fabre. Theresa Ruf reports speaker fees or travel grants: Sun 
+Pharma and Therakos. Markus Heppt received Honoraria from MSD, BMS, Roche, 
+Novartis, Sun Pharma, Sanofi, Almirall, Biofrontera, Galderma. Egle Ramelyte has 
+intermittent, project focused consulting and/or advisory relationships or has 
+received travel or research grants from Sanofi, Pierre Fabre, Bristol-Myers 
+Squibb (BMS), Amgen, Galderma, Takeda, SunPharma, Novartis, Merck Sharp & Dhome 
+(MSD), Leo-Pharma, outside the submitted work. Reinhard Dummer has 
+project-focused consulting and/or advisory relationships with Novartis, Merck 
+Sharp & Dhome (MSD), Bristol-Myers Squibb (BMS), Roche, Amgen, Takeda, Pierre 
+Fabre, Sun Pharma, Sanofi, Catalym, Second Genome, Regeneron, Alligator, T3 
+Pharma, MaxiVAX SA, Pfizer and touchIME outside the submitted work. Jens T. 
+Siveke reports honoraria for consulting, advisory role and talks from 
+AstraZeneca, Bayer, Boehringer-Ingelheim, Bristol-Myers Squibb, Celgene, Falk 
+Foundation, Immunocore, MCI Deutschland GmbH, MSD Sharp & Dohme GmbH, Novartis, 
+Roche/Genentech, Servier; he reports institutional trial support from 
+AstraZeneca, Bristol-Myers Squibb, Roche/Genentech and institutional research 
+funding from Abalos Therapeutics, Bristol-Myers Squibb, Eisbach Bio, 
+Roche/Genentech; he reports travel and accommodation expenses from SERVIER and 
+leadership and other ownership interests from Pharma. Cindy Franklin has been on 
+the advisory board or received honoraria from Bristol-Myers-Squibb, Immunocore 
+and Novartis, and received travel grants from Bristol-Myers-Squibb, Novartis and 
+Pierre Fabre. Kai-Christian Klespe reports consultancy, speaker fees or travel 
+grants: Novartis, Bristol-Myers Squibb, Pierre Fabre, Kyowa Kirin and Sun 
+Pharmaceutical. Bastian Schilling is on the advisory board or has received 
+honoraria from Immunocore, Almirall, Pfizer, Sanofi, Novartis, Roche, BMS and 
+MSD, research funding from Novartis and Pierre Fabre Pharmaceuticals, and travel 
+support from Novartis, Roche, Bristol-Myers Squibb and Pierre Fabre Pharma, 
+outside the submitted work. Carola Berking declares honoraria from Almirall, 
+BMS, Immunocore, Leo Pharma, MSD, Novartis, Roche, Pierre Fabre, and Sanofi. 
+Lucie Heinzerling reports consultancy, speaker fees, travel grants and/or 
+research funding: BMS, MSD, Merck, Roche, Amgen, Curevac, Novartis, Sanofi and 
+Pierre Fabre; clinical studies: BMS, MSD, Merck, Roche, Amgen, GSK, Curevac and 
+Novartis. All remaining authors have declared no conflict of interest.

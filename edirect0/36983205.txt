@@ -1,0 +1,33 @@
+1. J Clin Med. 2023 Mar 12;12(6):2203. doi: 10.3390/jcm12062203.
+
+Nail Apparatus Melanoma: Current Management and Future Perspectives.
+
+Ito T(1), Hashimoto H(1), Kaku-Ito Y(1), Tanaka Y(1), Nakahara T(1).
+
+Author information:
+(1)Department of Dermatology, Graduate School of Medical Sciences, Kyushu 
+University, Fukuoka 812-8582, Japan.
+
+Nail apparatus melanoma (NAM) is a rare type of cutaneous melanoma that belongs 
+to the acral melanoma subtype. NAM is managed principally in accordance with the 
+general treatment for cutaneous melanoma, but there is scarce evidence in 
+support of this in the literature. Acral melanoma is genetically different from 
+non-acral cutaneous melanoma, while recently accumulated data suggest that NAM 
+also has a different genetic background from acral melanoma. In this review, we 
+focus on recent advances in the management of NAM. Localized NAM should be 
+surgically removed; amputation of the digit and digit-preserving surgery have 
+been reported. Sentinel lymph node biopsy can be considered for invasive NAM for 
+the purpose of accurate staging. However, it is yet to be clarified whether 
+patients with metastatic sentinel lymph nodes can be safely spared completion 
+lymph node dissection. Similar to cutaneous melanoma, immune checkpoint 
+inhibitors and BRAF/MEK inhibitors are used as the first-line treatment for 
+metastatic NAM, but data on the efficacy of these therapies remain scarce. The 
+therapeutic effects of immune checkpoint inhibitors could be lower for NAM than 
+for cutaneous melanoma. This review highlights the urgent need to accumulate 
+data to better define the optimal management of this rare melanoma.
+
+DOI: 10.3390/jcm12062203
+PMCID: PMC10057171
+PMID: 36983205
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,39 @@
+1. Cancers (Basel). 2022 Jun 23;14(13):3094. doi: 10.3390/cancers14133094.
+
+Recent Advances and Challenges in Uveal Melanoma Immunotherapy.
+
+Fu Y(1)(2)(3), Xiao W(1)(2)(3), Mao Y(1)(2)(3).
+
+Author information:
+(1)State Key Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun 
+Yat-sen University, Guangzhou 510060, China.
+(2)Guangdong Provincial Key Laboratory of Ophthalmology and Visual Science, 
+Guangzhou 510060, China.
+(3)Guangdong Provincial Clinical Research Center for Ocular Diseases, Guangzhou 
+510060, China.
+
+Uveal melanoma (UM) is the most common primary intraocular malignancy in adults. 
+Compared to cutaneous melanoma (CM), which mainly harbors BRAF or NRAS 
+mutations, UM predominantly harbors GNAQ or GNA11 mutations. Although primary UM 
+can be controlled locally, approximately 50% of patients still develop 
+metastases. To date, there have been no standard therapeutic strategies for the 
+prevention or treatment of metastases. Unfortunately, chemotherapy and targeted 
+therapies only induce minimal responses in patients with metastatic UM, with a 
+median survival time of only 4-5 months after metastasis detection. 
+Immunotherapy agents, such as immune checkpoint inhibitors, have achieved 
+pioneering outcomes in CM but have shown limited effects in UM. Researchers have 
+explored several feasible checkpoints to identify options for future therapies. 
+Cancer vaccines have shown little in the way of therapeutic benefit in patients 
+with UM, and there are few ongoing trials providing favorable evidence, but 
+adoptive cell transfer-related therapies seem promising and deserve further 
+investigation. More recently, the immune-mobilizing monoclonal T-cell receptor 
+against the cancer molecule tebentafusp showed impressive antitumor effects. 
+Meanwhile, oncolytic viruses and small molecule inhibitors have also gained 
+ground. This review highlights recent progress in burgeoning treatments and 
+provides innovative insights on feasible strategies for the treatment of UM.
+
+DOI: 10.3390/cancers14133094
+PMCID: PMC9264803
+PMID: 35804863
+
+Conflict of interest statement: The authors declare no conflict of interest.

@@ -1,0 +1,129 @@
+1. J Clin Oncol. 2022 Jun 10;40(17):1939-1948. doi: 10.1200/JCO.21.01805. Epub
+2022  Mar 7.
+
+Phase I Study of Safety, Tolerability, and Efficacy of Tebentafusp Using a 
+Step-Up Dosing Regimen and Expansion in Patients With Metastatic Uveal Melanoma.
+
+Carvajal RD(1), Nathan P(2), Sacco JJ(3)(4), Orloff M(5), Hernandez-Aya LF(6), 
+Yang J(1), Luke JJ(7)(8), Butler MO(9), Stanhope S(10), Collins L(10), McAlpine 
+C(10), Holland C(11), Abdullah SE(11), Sato T(5).
+
+Author information:
+(1)Herbert Irving Comprehensive Cancer Center, Columbia University Irving 
+Medical Center, New York, NY.
+(2)Department of Medical Oncology, Mount Vernon Cancer Centre, London, United 
+Kingdom.
+(3)Clatterbridge Cancer Centre, Bebington, United Kingdom.
+(4)University of Liverpool, Liverpool, United Kingdom.
+(5)Sidney Kimmel Cancer Center, Thomas Jefferson University, Philadelphia, PA.
+(6)Siteman Cancer Center, Washington University School of Medicine, St Louis, 
+MO.
+(7)University of Chicago, Chicago, IL.
+(8)UPMC/University of Pittsburgh Hillman Cancer Center, Pittsburgh, PA.
+(9)Princess Margaret Cancer Centre, Toronto, Ontario, Canada.
+(10)Immunocore, Abingdon, United Kingdom.
+(11)Immunocore, Rockville, MD.
+
+PURPOSE: This phase I study aimed to define the recommended phase II dose (RP2D) 
+of tebentafusp, a first-in-class T-cell receptor/anti-CD3 bispecific protein, 
+using a three-week step-up dosing regimen, and to assess its safety, 
+pharmacokinetics, pharmacodynamics, and preliminary clinical activity in 
+patients with metastatic uveal melanoma (mUM).
+METHODS: In this open-label, international, phase I/II study, HLA-A*02 or 
+HLA-A*02:01+ patients with mUM received tebentafusp 20 μg once in week 1 and 30 
+μg once in week 2. Dose escalation (starting at 54 μg) began at week 3 in a 
+standard 3 + 3 design to define RP2D. Expansion-phase patients were treated at 
+the RP2D (20-30-68 μg). Blood and tumor samples were collected for 
+pharmacokinetics/pharmacodynamics assessment, and treatment efficacy was 
+evaluated for all patients with baseline efficacy data as of December 2017.
+RESULTS: Between March 2016 and December 2017, 42 eligible patients who failed a 
+median of two previous treatments were enrolled: 19 in the dose escalation 
+cohort and 23 in an initial dose expansion cohort. Of the dose levels 
+investigated, 68 μg was identified as the RP2D. Most frequent treatment-emergent 
+adverse events regardless of attribution were pyrexia (91%), rash (83%), 
+pruritus (83%), nausea (74%), fatigue (71%), and chills (69%). Toxicity 
+attenuated following the first three doses. The overall response rate was 11.9% 
+(95% CI, 4.0 to 25.6). With a median follow-up of 32.4 months, median overall 
+survival was 25.5 months (range, 0.89-31.1 months) and 1-year overall survival 
+rate was 67%. Treatment was associated with increased tumor T-cell infiltration 
+and transient increases in serum inflammatory mediators.
+CONCLUSION: Using a step-up dosing regimen of tebentafusp allowed a 36% increase 
+in the RP2D compared with weekly fixed dosing, with a manageable side-effect 
+profile and a signal of efficacy in mUM.
+
+DOI: 10.1200/JCO.21.01805
+PMCID: PMC9177239
+PMID: 35254876 [Indexed for MEDLINE]
+
+Conflict of interest statement: Richard D. CarvajalConsulting or Advisory Role: 
+Merck, Aura Biosciences, Castle Biosciences, Immunocore, PureTech, Sorrento 
+Therapeutics, Chimeron Bio, Rgenix, InxMed, Pierre Fabre, TriSalus Life 
+Sciences, Iovance Biotherapeutics, Oncosec, Regeneron, Genzyme, Amgen (Inst), 
+Astellas Pharma (Inst), AstraZeneca (Inst), Bristol Myers Squibb/Medarex (Inst), 
+Corvus Pharmaceuticals (Inst), Ideya (Inst), Mirati Therapeutics (Inst), 
+Novartis (Inst), Pfizer (Inst), Plexxikon (Inst), Roche/Genentech 
+(Inst)Speakers' Bureau: Bristol Myers Squibb/MedarexResearch Funding: Amgen 
+(Inst), Astellas Pharma (Inst), AstraZeneca (Inst), Bayer (Inst), Bellicum 
+Pharmaceuticals (Inst), Bristol Myers Squibb (Inst), Corvus Pharmaceuticals 
+(Inst), Lilly (Inst), Immunocore (Inst), Incyte (Inst), Macrogenics (Inst), 
+Merck (Inst), Mirati Therapeutics (Inst), Novartis (Inst), Pfizer (Inst), 
+Plexxikon (Inst), Roche/Genentech (Inst), Array BioPharma (Inst), IDEAYA 
+Biosciences (Inst), Regeneron (Inst) Paul NathanConsulting or Advisory Role: 
+AstraZeneca, Bristol Myers Squibb, MSD, Immunocore, Pfizer, Pierre Fabre, 
+Novartis, GlaxoSmithKline, Ipsen, 4SC, MerckSpeakers' Bureau: Bristol Myers 
+Squibb, Novartis, MSD, MerckTravel, Accommodations, Expenses: Bristol Myers 
+Squibb, MSD Joseph J. SaccoHonoraria: Immunocore, Pierre Fabre, 
+NovartisConsulting or Advisory Role: Immunocore (Inst), Delcath Systems, MSD, 
+BMS, ImmunocoreResearch Funding: AstraZeneca (Inst), Immunocore (Inst), 
+Replimune (Inst), BMS (Inst)Travel, Accommodations, Expenses: BMS, MSD Marlana 
+OrloffConsulting or Advisory Role: Immunocore, TriSalus Life Sciences, IDEAYA 
+BiosciencesSpeakers' Bureau: Bristol Myers SquibbResearch Funding: Bristol Myers 
+Squibb (Inst), Immunocore (Inst), Delcath Systems (Inst), Plexxikon (Inst), 
+IDEAYA Biosciences (Inst), Linnaeus Therapeutics (Inst) Leonel F. 
+Hernandez-AyaConsulting or Advisory Role: Massive Bio, Bristol Myers Squibb, 
+Castle BiosciencesSpeakers' Bureau: Sanofi/RegeneronResearch Funding: Bristol 
+Myers Squibb (Inst), Regeneron (Inst), Immunocore (Inst), Merck (Inst), Polynoma 
+(Inst), Corvus Pharmaceuticals (Inst), Roche/Genentech (Inst), Merck Serono 
+(Inst), Amgen (Inst), MedImmune (Inst), Takeda (Inst), Moderna Therapeutics 
+(Inst), Foghorn Therapeutics (Inst)Travel, Accommodations, Expenses: 
+Sanofi/Regeneron, Bristol Myers Squibb, Castle Biosciences Jason J. LukeStock 
+and Other Ownership Interests: Actym Therapeutics, Mavu Pharmaceutical, Pyxis, 
+Alphamab, Tempest Therapeutics, Kanaph Therapeutics, Onc.AI, Arch 
+OncologyConsulting or Advisory Role: Bristol Myers Squibb, Merck, EMD Serono, 
+Novartis, 7 Hills Pharma, Janssen, Reflexion Medical, Tempest Therapeutics, 
+Alphamab, Spring Bank, AbbVie, Astellas Pharma, Bayer, Incyte, Mersana, Partner 
+Therapeutics, Synlogic, Eisai, Werewolf Therapeutics, Ribon Therapeutics, 
+Checkmate Pharmaceuticals, CStone Pharmaceuticals, Nektar, Regeneron, Rubius 
+Therapeutics, Tesaro, Xilio Therapeutics, Xencor, Alnylam, Crown Bioscience, 
+Flame Biosciences, Genentech, Kadmon, KSQ Therapeutics, Immunocore, Inzen 
+Therapeutics, Pfizer, Silicon Therapeutics, TRex BioResearch Funding: Merck 
+(Inst), Bristol Myers Squibb (Inst), Incyte (Inst), Corvus Pharmaceuticals 
+(Inst), AbbVie (Inst), Macrogenics (Inst), Xencor (Inst), Array BioPharma, 
+Agios, Astellas Pharma, EMD Serono, Immatics, Kadmon, Moderna Therapeutics, 
+Nektar, Spring bank, Trishula Therapeutics, KAHR Medical, Fstar, Genmab, Ikena 
+Oncology, Numab, Replimune, Rubius Therapeutics, Synlogic, Takeda, Tizona 
+Therapeutics Inc, Trishula Therapeutics, BioNTech, Scholar RockPatents, 
+Royalties, Other Intellectual Property: Serial #15/612,657 (Cancer 
+Immunotherapy), Serial #PCT/US18/36052 (Microbiome Biomarkers for 
+Anti–PD-1/PD-L1 Responsiveness: Diagnostic, Prognostic and Therapeutic Uses 
+Thereof)Travel, Accommodations, Expenses: Bristol Myers Squibb, Array BioPharma, 
+EMD Serono, Janssen, Merck, Novartis, Reflexion Medical, Mersana, Pyxis, Xilio 
+Therapeutics Marcus O. ButlerHonoraria: Roche, Merck, Bristol Myers Squibb, 
+NovartisConsulting or Advisory Role: Merck, Bristol Myers Squibb, Novartis, 
+Immunovaccine, Immunocore, Adaptimmune, EMD Serono, GlaxoSmithKline, Genzyme, 
+Sanofi, LaRoche Posay, Sun Pharma, Instil Bio, Iovance Biotherapeutics, 
+PfizerResearch Funding: Merck, Takara BioExpert Testimony: Merck Sarah 
+StanhopeEmployment: ImmunocoreStock and Other Ownership Interests: Immunocore 
+Laura CollinsEmployment: ImmunocoreStock and Other Ownership Interests: 
+Immunocore Cheryl McAlpineEmployment: Immunocore, Adaptimmune Chris 
+HollandEmployment: ImmunocoreStock and Other Ownership Interests: Immunocore, 
+Amgen, MacroGenicsPatents, Royalties, Other Intellectual Property: Coinvolvement 
+in a patent for the compositions and methods for treating diffuse large B-cell 
+lymphoma Shaad E. AbdullahEmployment: ImmunocoreStock and Other Ownership 
+Interests: ImmunocorePatents, Royalties, Other Intellectual Property: 
+AU2019270277A1—Treatment of Cancer, WO2020225552A1—Combination of monalizumab, 
+durvalumab, chemotherapy, and bevacizumab or cetuximab for the treatment of 
+colorectal cancer Takami SatoConsulting or Advisory Role: Immunocore, Castle 
+BiosciencesResearch Funding: Immunocore (Inst), Verastem (Inst)Travel, 
+Accommodations, Expenses: Castle BiosciencesNo other potential conflicts of 
+interest were reported.

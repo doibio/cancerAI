@@ -1,0 +1,34 @@
+1. Cancers (Basel). 2021 Nov 27;13(23):5968. doi: 10.3390/cancers13235968.
+
+Gp-100 as a Novel Therapeutic Target in Uveal Melanoma.
+
+Martinez-Perez D(1), Viñal D(1), Solares I(2), Espinosa E(3), Feliu J(3).
+
+Author information:
+(1)Department of Medical Oncology, Hospital Universitario La Paz, Paseo de la 
+Castellana 261, 28046 Madrid, Spain.
+(2)Department of Internal Medicine, Hospital Universitario 12 de Octubre, 28041 
+Madrid, Spain.
+(3)Department of Medical Oncology, Hospital Universitario La Paz, IdiPAZ, 
+Catedra UAM-AMGEN, Centro de Investigación Biomédica en Red Cáncer (CIBERONC), 
+28046 Madrid, Spain.
+
+Uveal melanoma is a rare neoplasm with poor prognosis in the metastatic setting. 
+Unlike cutaneous melanoma, treatment with kinase inhibitors or immune checkpoint 
+inhibitors is not effective. Glycoprotein 100 (Gp-100) is a protein highly 
+expressed in melanocytes and melanoma that has recently been effectively 
+targeted by tebentafusp, a first-in-class bispecific protein of the 
+immune-mobilizing monoclonal T cell receptors against cancer (ImmTACs) family. 
+Tebentafusp targets tumor cells that express a peptide of Gp-100 presented by 
+HLA*A0201, creating an immune synapse that kills targeted tumor cells. Recently, 
+a randomized phase III trial reported an overall survival benefit for 
+tebentafusp in patients with untreated metastatic uveal melanoma. The aim of 
+this comprehensive review is to summarize evidence of Gp-100 as a therapeutic 
+target in melanoma, and the preclinical and clinical development of tebentafusp 
+as a novel therapeutic strategy for patients with uveal melanoma.
+
+DOI: 10.3390/cancers13235968
+PMCID: PMC8656894
+PMID: 34885078
+
+Conflict of interest statement: The authors declare no conflict of interest.

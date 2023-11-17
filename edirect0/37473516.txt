@@ -1,0 +1,42 @@
+1. Cancer Treat Rev. 2023 Sep;119:102599. doi: 10.1016/j.ctrv.2023.102599. Epub 
+2023 Jul 7.
+
+Uveal melanoma: In the era of new treatments.
+
+Wespiser M(1), Neidhardt E(2), Negrier S(3).
+
+Author information:
+(1)Department of Medical Oncology, University Hospital of Besançon, Besançon, 
+France. Electronic address: mwespiser@chu-besancon.fr.
+(2)Centre Léon Bérard, University of Lyon, Lyon, France. Electronic address: 
+EveMarie.neidhardt@lyon.unicancer.fr.
+(3)Centre Léon Bérard, University of Lyon, Lyon, France. Electronic address: 
+sylvie.negrier@lyon.unicancer.fr.
+
+Uveal melanoma (UM), also known as choroidal melanoma, is the leading adult 
+intraocular tumor worldwide, affecting mainly Caucasian populations. The last 
+decade has seen an improvement in the outcome of these tumors at the localized 
+stage, in favor of conservative treatment of the eye, notably with new 
+radioactive treatment techniques. Despite optimal management, half of the 
+patients will become metastatic, with liver involvement in 90% of cases. The 
+prognosis is pejorative and considers clinical, tumor anatomy, histological and 
+molecular parameters. This review provides a broad overview of the different 
+therapeutic options for the management of localized or metastatic UM disease, 
+with recently updated data. Despite the known limited efficacy of chemotherapy 
+and immune checkpoint inhibitors (ICI), we discuss the first results of combined 
+immunotherapies, the arrival of a new first-in-class immunomodulatory treatment 
+Tebentafusp, in HLA-A*02:01 patients, avenues of research into targeted 
+anti-tyrosine kinase therapies, and the growing use of ctDNA to guide treatment 
+prescription.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2023.102599
+PMID: 37473516 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: [Mylène Wespiser: declares no 
+conflicts of interest. Eve Marie Neidhardt: declares conflicts of interest with 
+Pierre Fabre and Novartis. Sylvie Negrier: declares conflicts of interest with 
+Pfizer, Ipsen, BMS, MDS, Eisaï.].

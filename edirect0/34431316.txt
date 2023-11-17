@@ -1,0 +1,28 @@
+1. Future Oncol. 2021 Nov;17(33):4583-4606. doi: 10.2217/fon-2021-0318. Epub 2021
+ Aug 25.
+
+Systemic and liver-directed therapies in metastatic uveal melanoma: 
+state-of-the-art and novel perspectives.
+
+Comito F(1)(2), Marchese PV(2), Ricci AD(2), Tober N(2), Peterle C(2), Sperandi 
+F(1), Melotti B(1).
+
+Author information:
+(1)Division of Oncology, IRCCS Azienda Ospedaliero-Universitaria di Bologna.
+(2)Department of Experimental, Diagnostic & Specialty Medicine, S. 
+Orsola-Malpighi University Hospital of Bologna 40138, Italy.
+
+Metastatic uveal melanoma (MUM) is the most common form of noncutaneous 
+melanoma. It is different from its cutaneous counterpart and is characterized by 
+a very poor prognosis. Despite groundbreaking improvements in the treatment of 
+cutaneous melanoma, there have been few advances in the treatment of MUM, and 
+standard treatments for MUM have not been defined. We performed a systematic 
+review focusing our attention on all interventional studies, ongoing or already 
+published, concerning the treatment of MUM. We present results from studies of 
+chemotherapy, targeted therapy, immunotherapy and liver-directed therapies. 
+Although the results in this setting have been disappointing until now, trials 
+investigating novel immunotherapeutic strategies alone and in combination with 
+targeted agents and liver-directed therapies are ongoing.
+
+DOI: 10.2217/fon-2021-0318
+PMID: 34431316 [Indexed for MEDLINE]
