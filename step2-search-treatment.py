@@ -24,11 +24,10 @@ for filename in os.listdir(directory_path):
 
 
 
-co = cohere.Client('66YEjoukazKyL1bOOuIdD3K2Kqe401gddkG4nbSj')
+co = cohere.Client('KEY_HERE')
 response = co.chat(
-    message="Please do a business analysis of the company Immuncore with relation to Tebentafusp with regard to TAM and other indicators. Please write it to fit on a slide",
-    #documents=documents,
-    connectors=[{"id": "web-search"}],
+    message="Evaluate tebentafusp for efficacy",
+    documents=documents,
     prompt_truncation="AUTO"
 )
 print(response)
